@@ -1,0 +1,948 @@
+,Province,RegionName
+0,Lleida,Abella de la Conca
+1,Barcelona,Abrera
+2,Lleida,Àger
+3,Lleida,Agramunt
+4,Barcelona,Aguilar de Segarra
+5,Girona,Agullana
+6,Barcelona,Aiguafreda
+7,Tarragona,Aiguamúrcia
+8,Girona,Aiguaviva
+9,Lleida,Aitona
+10,Lleida,Els Alamús
+11,Lleida,Alàs i Cerc
+12,Lleida,L'Albagés
+13,Girona,Albanyà
+14,Lleida,Albatàrrec
+15,Lleida,Albesa
+16,Lleida,L'Albi
+17,Tarragona,Albinyana
+18,Tarragona,L'Albiol
+19,Girona,Albons
+20,Tarragona,Alcanar
+21,Lleida,Alcanó
+22,Lleida,Alcarràs
+23,Lleida,Alcoletge
+24,Tarragona,Alcover
+25,Tarragona,L'Aldea
+26,Tarragona,Aldover
+27,Tarragona,L'Aleixar
+28,Barcelona,Alella
+29,Tarragona,Alfara de Carles
+30,Lleida,Alfarràs
+31,Lleida,Alfés
+32,Tarragona,Alforja
+33,Lleida,Algerri
+34,Lleida,Alguaire
+35,Lleida,Alins
+36,Tarragona,Alió
+37,Lleida,Almacelles
+38,Lleida,Almatret
+39,Lleida,Almenar
+40,Tarragona,Almoster
+41,Lleida,Alòs de Balaguer
+42,Girona,Alp
+43,Barcelona,Alpens
+44,Lleida,Alpicat
+45,Lleida,Alt Àneu
+46,Tarragona,Altafulla
+47,Girona,Amer
+48,Tarragona,L'Ametlla de Mar
+49,Barcelona,L'Ametlla del Vallès
+50,Tarragona,L'Ampolla
+51,Tarragona,Amposta
+52,Girona,Anglès
+53,Lleida,Anglesola
+54,Lleida,Arbeca
+55,Tarragona,L'Arboç
+56,Tarragona,Arbolí
+57,Girona,Arbúcies
+58,Barcelona,Arenys de Mar
+59,Barcelona,Arenys de Munt
+60,Girona,Argelaguer
+61,Barcelona,Argençola
+62,Tarragona,L'Argentera
+63,Barcelona,Argentona
+64,Girona,L'Armentera
+65,Tarragona,Arnes
+66,Lleida,Arres
+67,Lleida,Arsèguel
+68,Barcelona,Artés
+69,Lleida,Artesa de Lleida
+70,Lleida,Artesa de Segre
+71,Tarragona,Ascó
+72,Lleida,Aspa
+73,Lleida,Les Avellanes i Santa Linya
+74,Barcelona,Avià
+75,Barcelona,Avinyó
+76,Girona,Avinyonet de Puigventós
+77,Barcelona,Avinyonet del Penedès
+78,Barcelona,Badalona
+79,Barcelona,Badia del Vallès
+80,Barcelona,Bagà
+81,Lleida,Baix Pallars
+82,Lleida,Balaguer
+83,Barcelona,Balenyà
+84,Barcelona,Balsareny
+85,Tarragona,Banyeres del Penedès
+86,Girona,Banyoles
+87,Lleida,Barbens
+88,Tarragona,Barberà de la Conca
+89,Barcelona,Barberà del Vallès
+90,Barcelona,Barcelona
+91,Lleida,La Baronia de Rialb
+92,Girona,Bàscara
+93,Lleida,Bassella
+94,Tarragona,Batea
+95,Lleida,Bausen
+96,Barcelona,Begues
+97,Girona,Begur
+98,Lleida,Belianes
+99,Lleida,Bell-lloc d'Urgell
+100,Lleida,Bellaguarda
+101,Girona,Bellcaire d'Empordà
+102,Lleida,Bellcaire d'Urgell
+103,Lleida,Bellmunt d'Urgell
+104,Tarragona,Bellmunt del Priorat
+105,Barcelona,Bellprat
+106,Lleida,Bellpuig
+107,Tarragona,Bellvei
+108,Lleida,Bellver de Cerdanya
+109,Lleida,Bellvís
+110,Lleida,Benavent de Segrià
+111,Tarragona,Benifallet
+112,Tarragona,Benissanet
+113,Barcelona,Berga
+114,Girona,Besalú
+115,Girona,Bescanó
+116,Girona,Beuda
+117,Barcelona,Bigues i Riells
+118,Lleida,Biosca
+119,Girona,La Bisbal d'Empordà
+120,Tarragona,La Bisbal de Falset
+121,Tarragona,La Bisbal del Penedès
+122,Girona,Biure
+123,Tarragona,Blancafort
+124,Girona,Blanes
+125,Girona,Boadella i les Escaules
+126,Girona,Bolvir
+127,Tarragona,Bonastre
+128,Lleida,Es Bòrdes
+129,Girona,Bordils
+130,Lleida,Les Borges Blanques
+131,Tarragona,Les Borges del Camp
+132,Girona,Borrassà
+133,Barcelona,Borredà
+134,Lleida,Bossòst
+135,Tarragona,Bot
+136,Tarragona,Botarell
+137,Lleida,Bovera
+138,Tarragona,Bràfim
+139,Girona,Breda
+140,Barcelona,El Bruc
+141,Barcelona,El Brull
+142,Girona,Brunyola
+143,Tarragona,Cabacés
+144,Lleida,Cabanabona
+145,Girona,Cabanelles
+146,Girona,Cabanes
+147,Barcelona,Les Cabanyes
+148,Lleida,Cabó
+149,Tarragona,Cabra del Camp
+150,Barcelona,Cabrera d'Anoia
+151,Barcelona,Cabrera de Mar
+152,Barcelona,Cabrils
+153,Girona,Cadaqués
+154,Barcelona,Calaf
+155,Tarragona,Calafell
+156,Barcelona,Calders
+157,Barcelona,Caldes d'Estrac
+158,Girona,Caldes de Malavella
+159,Barcelona,Caldes de Montbui
+160,Barcelona,Calella
+161,Barcelona,Calldetenes
+162,Barcelona,Callús
+163,Girona,Calonge
+164,Barcelona,Calonge de Segarra
+165,Lleida,Camarasa
+166,Tarragona,Camarles
+167,Tarragona,Cambrils
+168,Girona,Camós
+169,Girona,Campdevànol
+170,Girona,Campelles
+171,Barcelona,Campins
+172,Girona,Campllong
+173,Girona,Camprodon
+174,Lleida,Canejan
+175,Girona,Canet d'Adri
+176,Barcelona,Canet de Mar
+177,Tarragona,La Canonja
+178,Barcelona,Canovelles
+179,Barcelona,Cànoves i Samalús
+180,Girona,Cantallops
+181,Barcelona,Canyelles
+182,Tarragona,Capafonts
+183,Tarragona,Capçanes
+184,Barcelona,Capellades
+185,Girona,Capmany
+186,Barcelona,Capolat
+187,Barcelona,Cardedeu
+188,Barcelona,Cardona
+189,Barcelona,Carme
+190,Tarragona,Caseres
+191,Girona,Cassà de la Selva
+192,Barcelona,Casserres
+193,Barcelona,Castell de l'Areny
+194,Lleida,Castell de Mur
+195,Girona,Castell-Platja d'Aro
+196,Lleida,Castellar de la Ribera
+197,Barcelona,Castellar de n'Hug
+198,Barcelona,Castellar del Riu
+199,Barcelona,Castellar del Vallès
+200,Barcelona,Castellbell i el Vilar
+201,Barcelona,Castellbisbal
+202,Barcelona,Castellcir
+203,Lleida,Castelldans
+204,Barcelona,Castelldefels
+205,Barcelona,Castellet i la Gornal
+206,Girona,Castellfollit de la Roca
+207,Barcelona,Castellfollit de Riubregós
+208,Barcelona,Castellfollit del Boix
+209,Barcelona,Castellgalí
+210,Barcelona,Castellnou de Bages
+211,Lleida,Castellnou de Seana
+212,Girona,Castelló d'Empúries
+213,Lleida,Castelló de Farfanya
+214,Barcelona,Castellolí
+215,Lleida,Castellserà
+216,Barcelona,Castellterçol
+217,Tarragona,Castellvell del Camp
+218,Barcelona,Castellví de la Marca
+219,Barcelona,Castellví de Rosanes
+220,Tarragona,El Catllar
+221,Lleida,Cava
+222,Girona,La Cellera de Ter
+223,Girona,Celrà
+224,Barcelona,Centelles
+225,Barcelona,Cercs
+226,Barcelona,Cerdanyola del Vallès
+227,Barcelona,Cervelló
+228,Lleida,Cervera
+229,Lleida,Cervià de les Garrigues
+230,Girona,Cervià de Ter
+231,Girona,Cistella
+232,Lleida,Ciutadilla
+233,Lleida,Clariana de Cardener
+234,Lleida,El Cogul
+235,Girona,Colera
+236,Lleida,Coll de Nargó
+237,Barcelona,Collbató
+238,Tarragona,Colldejou
+239,Barcelona,Collsuspina
+240,Girona,Colomers
+241,Lleida,La Coma i la Pedra
+242,Lleida,Conca de Dalt
+243,Tarragona,Conesa
+244,Tarragona,Constantí
+245,Barcelona,Copons
+246,Tarragona,Corbera d'Ebre
+247,Barcelona,Corbera de Llobregat
+248,Lleida,Corbins
+249,Girona,Corçà
+250,Barcelona,Cornellà de Llobregat
+251,Girona,Cornellà del Terri
+252,Tarragona,Cornudella de Montsant
+253,Tarragona,Creixell
+254,Girona,Crespià
+255,Girona,"Cruïlles, Monells i Sant Sadurní de l'Heura"
+256,Barcelona,Cubelles
+257,Lleida,Cubells
+258,Tarragona,Cunit
+259,Girona,Darnius
+260,Girona,Das
+261,Tarragona,Deltebre
+262,Barcelona,Dosrius
+263,Tarragona,Duesaigües
+264,Girona,L'Escala
+265,Barcelona,Esparreguera
+266,Girona,Espinelves
+267,Lleida,L'Espluga Calba
+268,Tarragona,L'Espluga de Francolí
+269,Barcelona,Esplugues de Llobregat
+270,Girona,Espolla
+271,Girona,Esponellà
+272,Lleida,Espot
+273,Barcelona,L'Espunyola
+274,Barcelona,L'Esquirol
+275,Lleida,Estamariu
+276,Barcelona,L'Estany
+277,Lleida,Estaràs
+278,Lleida,Esterri d'Àneu
+279,Lleida,Esterri de Cardós
+280,Tarragona,Falset
+281,Girona,El Far d'Empordà
+282,Lleida,Farrera
+283,Tarragona,La Fatarella
+284,Tarragona,La Febró
+285,Barcelona,Figaró-Montmany
+286,Barcelona,Fígols
+287,Lleida,Fígols i Alinyà
+288,Tarragona,La Figuera
+289,Girona,Figueres
+290,Tarragona,Figuerola del Camp
+291,Girona,Flaçà
+292,Tarragona,Flix
+293,Lleida,La Floresta
+294,Barcelona,Fogars de la Selva
+295,Barcelona,Fogars de Montclús
+296,Girona,Foixà
+297,Barcelona,Folgueroles
+298,Lleida,Fondarella
+299,Barcelona,Fonollosa
+300,Barcelona,Font-rubí
+301,Girona,Fontanals de Cerdanya
+302,Girona,Fontanilles
+303,Girona,Fontcoberta
+304,Lleida,Foradada
+305,Girona,Forallac
+306,Tarragona,Forès
+307,Girona,Fornells de la Selva
+308,Girona,Fortià
+309,Barcelona,Les Franqueses del Vallès
+310,Tarragona,Freginals
+311,Lleida,La Fuliola
+312,Lleida,Fulleda
+313,Barcelona,Gaià
+314,Tarragona,La Galera
+315,Barcelona,Gallifa
+316,Tarragona,Gandesa
+317,Tarragona,Garcia
+318,Tarragona,Els Garidells
+319,Barcelona,La Garriga
+320,Girona,Garrigàs
+321,Girona,Garrigoles
+322,Girona,Garriguella
+323,Barcelona,Gavà
+324,Lleida,Gavet de la Conca
+325,Barcelona,Gelida
+326,Girona,Ger
+327,Lleida,Gimenells i el Pla de la Font
+328,Tarragona,Ginestar
+329,Girona,Girona
+330,Barcelona,Gironella
+331,Barcelona,Gisclareny
+332,Tarragona,Godall
+333,Lleida,Golmés
+334,Girona,Gombrèn
+335,Lleida,Gósol
+336,Barcelona,La Granada
+337,Lleida,La Granadella
+338,Barcelona,Granera
+339,Lleida,La Granja d'Escarp
+340,Barcelona,Granollers
+341,Lleida,Granyanella
+342,Lleida,Granyena de les Garrigues
+343,Lleida,Granyena de Segarra
+344,Tarragona,Gratallops
+345,Barcelona,Gualba
+346,Girona,Gualta
+347,Barcelona,Guardiola de Berguedà
+348,Tarragona,Els Guiamets
+349,Girona,Guils de Cerdanya
+350,Lleida,Guimerà
+351,Lleida,La Guingueta d'Àneu
+352,Lleida,Guissona
+353,Lleida,Guixers
+354,Barcelona,Gurb
+355,Tarragona,Horta de Sant Joan
+356,Barcelona,L'Hospitalet de Llobregat
+357,Barcelona,Els Hostalets de Pierola
+358,Girona,Hostalric
+359,Barcelona,Igualada
+360,Lleida,Isona i Conca Dellà
+361,Girona,Isòvol
+362,Lleida,Ivars d'Urgell
+363,Lleida,Ivars de Noguera
+364,Lleida,Ivorra
+365,Girona,Jafre
+366,Girona,La Jonquera
+367,Barcelona,Jorba
+368,Lleida,Josa i Tuixén
+369,Girona,Juià
+370,Lleida,Juncosa
+371,Lleida,Juneda
+372,Lleida,Les
+373,Lleida,Linyola
+374,Barcelona,La Llacuna
+375,Girona,Lladó
+376,Lleida,Lladorre
+377,Lleida,Lladurs
+378,Barcelona,La Llagosta
+379,Girona,Llagostera
+380,Girona,Llambilles
+381,Girona,Llanars
+382,Girona,Llançà
+383,Lleida,Llardecans
+384,Lleida,Llavorsí
+385,Lleida,Lleida
+386,Girona,Llers
+387,Lleida,Lles de Cerdanya
+388,Barcelona,Lliçà d'Amunt
+389,Barcelona,Lliçà de Vall
+390,Lleida,Llimiana
+391,Barcelona,Llinars del Vallès
+392,Girona,Llívia
+393,Tarragona,El Lloar
+394,Lleida,Llobera
+395,Tarragona,Llorac
+396,Tarragona,Llorenç del Penedès
+397,Girona,Lloret de Mar
+398,Girona,Les Llosses
+399,Barcelona,Lluçà
+400,Girona,Maçanet de Cabrenys
+401,Girona,Maçanet de la Selva
+402,Girona,Madremanya
+403,Girona,Maià de Montcal
+404,Lleida,Maials
+405,Lleida,Maldà
+406,Barcelona,Malgrat de Mar
+407,Barcelona,Malla
+408,Barcelona,Manlleu
+409,Barcelona,Manresa
+410,Tarragona,Marçà
+411,Tarragona,Margalef
+412,Barcelona,Marganell
+413,Barcelona,Martorell
+414,Barcelona,Martorelles
+415,Tarragona,Mas de Barberans
+416,Girona,Masarac
+417,Tarragona,Masdenverge
+418,Barcelona,Les Masies de Roda
+419,Barcelona,Les Masies de Voltregà
+420,Tarragona,Masllorenç
+421,Barcelona,El Masnou
+422,Tarragona,La Masó
+423,Tarragona,Maspujols
+424,Barcelona,Masquefa
+425,Tarragona,El Masroig
+426,Lleida,Massalcoreig
+427,Girona,Massanes
+428,Lleida,Massoteres
+429,Barcelona,Matadepera
+430,Barcelona,Mataró
+431,Barcelona,Mediona
+432,Lleida,Menàrguens
+433,Girona,Meranges
+434,Girona,Mieres
+435,Tarragona,El Milà
+436,Lleida,Miralcamp
+437,Tarragona,Miravet
+438,Barcelona,Moià
+439,Tarragona,El Molar
+440,Barcelona,Molins de Rei
+441,Lleida,Mollerussa
+442,Girona,Mollet de Peralada
+443,Barcelona,Mollet del Vallès
+444,Girona,Molló
+445,Lleida,La Molsosa
+446,Barcelona,Monistrol de Calders
+447,Barcelona,Monistrol de Montserrat
+448,Tarragona,Mont-ral
+449,Girona,Mont-ras
+450,Tarragona,Mont-roig del Camp
+451,Girona,Montagut i Oix
+452,Tarragona,Montblanc
+453,Tarragona,Montbrió del Camp
+454,Barcelona,Montcada i Reixac
+455,Barcelona,Montclar
+456,Lleida,Montellà i Martinet
+457,Barcelona,Montesquiu
+458,Lleida,Montferrer i Castellbò
+459,Tarragona,Montferri
+460,Lleida,Montgai
+461,Barcelona,Montgat
+462,Barcelona,Montmajor
+463,Barcelona,Montmaneu
+464,Tarragona,El Montmell
+465,Barcelona,Montmeló
+466,Lleida,Montoliu de Lleida
+467,Lleida,Montoliu de Segarra
+468,Lleida,Montornès de Segarra
+469,Barcelona,Montornès del Vallès
+470,Barcelona,Montseny
+471,Tarragona,Móra d'Ebre
+472,Tarragona,Móra la Nova
+473,Tarragona,El Morell
+474,Tarragona,La Morera de Montsant
+475,Barcelona,Muntanyola
+476,Barcelona,Mura
+477,Lleida,Nalec
+478,Lleida,Naut Aran
+479,Barcelona,Navarcles
+480,Barcelona,Navàs
+481,Girona,Navata
+482,Lleida,Navès
+483,Barcelona,La Nou de Berguedà
+484,Tarragona,La Nou de Gaià
+485,Tarragona,Nulles
+486,Lleida,Odèn
+487,Barcelona,Òdena
+488,Girona,Ogassa
+489,Barcelona,Olèrdola
+490,Barcelona,Olesa de Bonesvalls
+491,Barcelona,Olesa de Montserrat
+492,Lleida,Oliana
+493,Lleida,Oliola
+494,Lleida,Olius
+495,Barcelona,Olivella
+496,Barcelona,Olost
+497,Girona,Olot
+498,Lleida,Les Oluges
+499,Barcelona,Olvan
+500,Lleida,Els Omellons
+501,Lleida,Els Omells de na Gaia
+502,Girona,Ordis
+503,Lleida,Organyà
+504,Barcelona,Orís
+505,Barcelona,Oristà
+506,Barcelona,Orpí
+507,Barcelona,Òrrius
+508,Lleida,Os de Balaguer
+509,Girona,Osor
+510,Lleida,Ossó de Sió
+511,Barcelona,Pacs del Penedès
+512,Barcelona,Palafolls
+513,Girona,Palafrugell
+514,Girona,Palamós
+515,Lleida,El Palau d'Anglesola
+516,Girona,Palau de Santa Eulàlia
+517,Girona,Palau-sator
+518,Girona,Palau-saverdera
+519,Barcelona,Palau-solità i Plegamans
+520,Tarragona,Els Pallaresos
+521,Barcelona,Pallejà
+522,Tarragona,La Palma d'Ebre
+523,Barcelona,La Palma de Cervelló
+524,Girona,Palol de Revardit
+525,Girona,Pals
+526,Barcelona,El Papiol
+527,Girona,Pardines
+528,Barcelona,Parets del Vallès
+529,Girona,Parlavà
+530,Tarragona,Passanant i Belltall
+531,Girona,Pau
+532,Tarragona,Paüls
+533,Girona,Pedret i Marzà
+534,Lleida,Penelles
+535,Girona,La Pera
+536,Barcelona,Perafita
+537,Tarragona,Perafort
+538,Girona,Peralada
+539,Lleida,Peramola
+540,Tarragona,El Perelló
+541,Barcelona,Piera
+542,Tarragona,Les Piles
+543,Barcelona,Pineda de Mar
+544,Tarragona,El Pinell de Brai
+545,Lleida,Pinell de Solsonès
+546,Lleida,Pinós
+547,Tarragona,Pira
+548,Tarragona,El Pla de Santa Maria
+549,Barcelona,El Pla del Penedès
+550,Girona,Les Planes d'Hostoles
+551,Girona,Planoles
+552,Lleida,Els Plans de Sió
+553,Lleida,El Poal
+554,Lleida,La Pobla de Cérvoles
+555,Barcelona,La Pobla de Claramunt
+556,Barcelona,La Pobla de Lillet
+557,Tarragona,La Pobla de Mafumet
+558,Tarragona,La Pobla de Massaluca
+559,Tarragona,La Pobla de Montornès
+560,Lleida,La Pobla de Segur
+561,Tarragona,Poboleda
+562,Barcelona,Polinyà
+563,Tarragona,El Pont d'Armentera
+564,Lleida,El Pont de Bar
+565,Girona,Pont de Molins
+566,Lleida,El Pont de Suert
+567,Barcelona,El Pont de Vilomara i Rocafort
+568,Tarragona,Pontils
+569,Barcelona,Pontons
+570,Girona,Pontós
+571,Lleida,Ponts
+572,Girona,Porqueres
+573,Tarragona,Porrera
+574,Girona,El Port de la Selva
+575,Girona,Portbou
+576,Lleida,La Portella
+577,Tarragona,Pradell de la Teixeta
+578,Tarragona,Prades
+579,Tarragona,Prat de Comte
+580,Barcelona,El Prat de Llobregat
+581,Tarragona,Pratdip
+582,Barcelona,Prats de Lluçanès
+583,Barcelona,Els Prats de Rei
+584,Lleida,Prats i Sansor
+585,Lleida,Preixana
+586,Lleida,Preixens
+587,Barcelona,Premià de Dalt
+588,Barcelona,Premià de Mar
+589,Girona,Les Preses
+590,Lleida,Prullans
+591,Barcelona,Puig-reig
+592,Girona,Puigcerdà
+593,Barcelona,Puigdàlber
+594,Lleida,Puiggròs
+595,Tarragona,Puigpelat
+596,Lleida,Puigverd d'Agramunt
+597,Lleida,Puigverd de Lleida
+598,Barcelona,Pujalt
+599,Barcelona,La Quar
+600,Girona,Quart
+601,Girona,Queralbs
+602,Tarragona,Querol
+603,Girona,Rabós
+604,Barcelona,Rajadell
+605,Tarragona,Rasquera
+606,Girona,Regencós
+607,Barcelona,Rellinars
+608,Tarragona,Renau
+609,Tarragona,Reus
+610,Lleida,Rialp
+611,Tarragona,La Riba
+612,Tarragona,Riba-roja d'Ebre
+613,Lleida,Ribera d'Ondara
+614,Lleida,Ribera d'Urgellet
+615,Girona,Ribes de Freser
+616,Girona,Riells i Viabrea
+617,Tarragona,La Riera de Gaià
+618,Lleida,Riner
+619,Girona,Ripoll
+620,Barcelona,Ripollet
+621,Lleida,Riu de Cerdanya
+622,Girona,Riudarenes
+623,Girona,Riudaura
+624,Tarragona,Riudecanyes
+625,Tarragona,Riudecols
+626,Girona,Riudellots de la Selva
+627,Tarragona,Riudoms
+628,Girona,Riumors
+629,Barcelona,La Roca del Vallès
+630,Tarragona,Rocafort de Queralt
+631,Tarragona,Roda de Berà
+632,Barcelona,Roda de Ter
+633,Tarragona,Rodonyà
+634,Tarragona,Roquetes
+635,Girona,Roses
+636,Lleida,Rosselló
+637,Tarragona,El Rourell
+638,Barcelona,Rubí
+639,Barcelona,Rubió
+640,Girona,Rupià
+641,Barcelona,Rupit i Pruit
+642,Barcelona,Sabadell
+643,Barcelona,Sagàs
+644,Lleida,Salàs de Pallars
+645,Barcelona,Saldes
+646,Girona,Sales de Llierca
+647,Barcelona,Sallent
+648,Tarragona,Salomó
+649,Tarragona,Salou
+650,Girona,Salt
+651,Lleida,Sanaüja
+652,Barcelona,Sant Adrià de Besòs
+653,Barcelona,Sant Agustí de Lluçanès
+654,Barcelona,Sant Andreu de la Barca
+655,Barcelona,Sant Andreu de Llavaneres
+656,Girona,Sant Andreu Salou
+657,Girona,Sant Aniol de Finestres
+658,Barcelona,Sant Antoni de Vilamajor
+659,Barcelona,Sant Bartomeu del Grau
+660,Barcelona,Sant Boi de Llobregat
+661,Barcelona,Sant Boi de Lluçanès
+662,Tarragona,Sant Carles de la Ràpita
+663,Barcelona,Sant Cebrià de Vallalta
+664,Barcelona,Sant Celoni
+665,Barcelona,Sant Climent de Llobregat
+666,Girona,Sant Climent Sescebes
+667,Barcelona,Sant Cugat del Vallès
+668,Barcelona,Sant Cugat Sesgarrigues
+669,Lleida,Sant Esteve de la Sarga
+670,Barcelona,Sant Esteve de Palautordera
+671,Barcelona,Sant Esteve Sesrovires
+672,Girona,Sant Feliu de Buixalleu
+673,Barcelona,Sant Feliu de Codines
+674,Girona,Sant Feliu de Guíxols
+675,Barcelona,Sant Feliu de Llobregat
+676,Girona,Sant Feliu de Pallerols
+677,Barcelona,Sant Feliu Sasserra
+678,Girona,Sant Ferriol
+679,Barcelona,Sant Fost de Campsentelles
+680,Barcelona,Sant Fruitós de Bages
+681,Girona,Sant Gregori
+682,Lleida,Sant Guim de Freixenet
+683,Lleida,Sant Guim de la Plana
+684,Girona,Sant Hilari Sacalm
+685,Barcelona,Sant Hipòlit de Voltregà
+686,Barcelona,Sant Iscle de Vallalta
+687,Tarragona,Sant Jaume d'Enveja
+688,Barcelona,Sant Jaume de Frontanyà
+689,Girona,Sant Jaume de Llierca
+690,Tarragona,Sant Jaume dels Domenys
+691,Girona,Sant Joan de les Abadesses
+692,Girona,Sant Joan de Mollet
+693,Barcelona,Sant Joan de Vilatorrada
+694,Barcelona,Sant Joan Despí
+695,Girona,Sant Joan les Fonts
+696,Girona,Sant Jordi Desvalls
+697,Barcelona,Sant Julià de Cerdanyola
+698,Girona,Sant Julià de Ramis
+699,Barcelona,Sant Julià de Vilatorta
+700,Girona,Sant Julià del Llor i Bonmatí
+701,Barcelona,Sant Just Desvern
+702,Barcelona,Sant Llorenç d'Hortons
+703,Girona,Sant Llorenç de la Muga
+704,Lleida,Sant Llorenç de Morunys
+705,Barcelona,Sant Llorenç Savall
+706,Barcelona,Sant Martí d'Albars
+707,Barcelona,Sant Martí de Centelles
+708,Girona,Sant Martí de Llémena
+709,Lleida,Sant Martí de Riucorb
+710,Barcelona,Sant Martí de Tous
+711,Barcelona,Sant Martí Sarroca
+712,Barcelona,Sant Martí Sesgueioles
+713,Girona,Sant Martí Vell
+714,Barcelona,Sant Mateu de Bages
+715,Girona,Sant Miquel de Campmajor
+716,Girona,Sant Miquel de Fluvià
+717,Girona,Sant Mori
+718,Girona,Sant Pau de Segúries
+719,Barcelona,Sant Pere de Ribes
+720,Barcelona,Sant Pere de Riudebitlles
+721,Barcelona,Sant Pere de Torelló
+722,Barcelona,Sant Pere de Vilamajor
+723,Girona,Sant Pere Pescador
+724,Barcelona,Sant Pere Sallavinera
+725,Barcelona,Sant Pol de Mar
+726,Barcelona,Sant Quintí de Mediona
+727,Barcelona,Sant Quirze de Besora
+728,Barcelona,Sant Quirze del Vallès
+729,Barcelona,Sant Quirze Safaja
+730,Lleida,Sant Ramon
+731,Barcelona,Sant Sadurní d'Anoia
+732,Barcelona,Sant Sadurní d'Osormort
+733,Barcelona,Sant Salvador de Guardiola
+734,Barcelona,Sant Vicenç de Castellet
+735,Barcelona,Sant Vicenç de Montalt
+736,Barcelona,Sant Vicenç de Torelló
+737,Barcelona,Sant Vicenç dels Horts
+738,Tarragona,Santa Bàrbara
+739,Barcelona,Santa Cecília de Voltregà
+740,Barcelona,Santa Coloma de Cervelló
+741,Girona,Santa Coloma de Farners
+742,Barcelona,Santa Coloma de Gramenet
+743,Tarragona,Santa Coloma de Queralt
+744,Girona,Santa Cristina d'Aro
+745,Barcelona,Santa Eugènia de Berga
+746,Barcelona,Santa Eulàlia de Riuprimer
+747,Barcelona,Santa Eulàlia de Ronçana
+748,Barcelona,Santa Fe del Penedès
+749,Girona,Santa Llogaia d'Àlguema
+750,Barcelona,Santa Margarida de Montbui
+751,Barcelona,Santa Margarida i els Monjos
+752,Barcelona,Santa Maria d'Oló
+753,Barcelona,Santa Maria de Besora
+754,Barcelona,Santa Maria de Martorelles
+755,Barcelona,Santa Maria de Merlès
+756,Barcelona,Santa Maria de Miralles
+757,Barcelona,Santa Maria de Palautordera
+758,Tarragona,Santa Oliva
+759,Girona,Santa Pau
+760,Barcelona,Santa Perpètua de Mogoda
+761,Barcelona,Santa Susanna
+762,Barcelona,Santpedor
+763,Tarragona,Sarral
+764,Girona,Sarrià de Ter
+765,Lleida,Sarroca de Bellera
+766,Lleida,Sarroca de Lleida
+767,Girona,"Saus, Camallera i Llampaies"
+768,Tarragona,Savallà del Comtat
+769,Tarragona,La Secuita
+770,Girona,La Selva de Mar
+771,Tarragona,La Selva del Camp
+772,Tarragona,Senan
+773,Tarragona,La Sénia
+774,Lleida,Senterada
+775,Lleida,La Sentiu de Sió
+776,Barcelona,Sentmenat
+777,Girona,Serinyà
+778,Lleida,Seròs
+779,Girona,Serra de Daró
+780,Girona,Setcases
+781,Lleida,La Seu d'Urgell
+782,Barcelona,Seva
+783,Lleida,Sidamon
+784,Girona,Sils
+785,Barcelona,Sitges
+786,Girona,Siurana
+787,Barcelona,Sobremunt
+788,Lleida,El Soleràs
+789,Tarragona,Solivella
+790,Lleida,Solsona
+791,Barcelona,Sora
+792,Lleida,Soriguera
+793,Lleida,Sort
+794,Lleida,Soses
+795,Barcelona,Subirats
+796,Lleida,Sudanell
+797,Lleida,Sunyer
+798,Barcelona,Súria
+799,Girona,Susqueda
+800,Barcelona,Tagamanent
+801,Barcelona,Talamanca
+802,Lleida,Talarn
+803,Lleida,Talavera
+804,Girona,La Tallada d'Empordà
+805,Barcelona,Taradell
+806,Tarragona,Tarragona
+807,Lleida,Tàrrega
+808,Lleida,Tarrés
+809,Lleida,Tarroja de Segarra
+810,Barcelona,Tavèrnoles
+811,Barcelona,Tavertet
+812,Barcelona,Teià
+813,Lleida,Térmens
+814,Girona,Terrades
+815,Barcelona,Terrassa
+816,Barcelona,Tiana
+817,Lleida,Tírvia
+818,Lleida,Tiurana
+819,Tarragona,Tivenys
+820,Tarragona,Tivissa
+821,Barcelona,Tona
+822,Lleida,Torà
+823,Barcelona,Tordera
+824,Barcelona,Torelló
+825,Lleida,Els Torms
+826,Lleida,Tornabous
+827,Lleida,La Torre de Cabdella
+828,Barcelona,La Torre de Claramunt
+829,Tarragona,La Torre de Fontaubella
+830,Tarragona,La Torre de l'Espanyol
+831,Lleida,Torre-serona
+832,Lleida,Torrebesses
+833,Tarragona,Torredembarra
+834,Lleida,Torrefarrera
+835,Lleida,Torrefeta i Florejacs
+836,Lleida,Torregrossa
+837,Lleida,Torrelameu
+838,Barcelona,Torrelavit
+839,Barcelona,Torrelles de Foix
+840,Barcelona,Torrelles de Llobregat
+841,Girona,Torrent
+842,Lleida,Torres de Segre
+843,Girona,Torroella de Fluvià
+844,Girona,Torroella de Montgrí
+845,Tarragona,Torroja del Priorat
+846,Girona,Tortellà
+847,Tarragona,Tortosa
+848,Girona,Toses
+849,Girona,Tossa de Mar
+850,Lleida,Tremp
+851,Girona,Ullà
+852,Barcelona,Ullastrell
+853,Girona,Ullastret
+854,Tarragona,Ulldecona
+855,Tarragona,Ulldemolins
+856,Girona,Ultramort
+857,Girona,Urús
+858,Barcelona,Vacarisses
+859,Girona,La Vajol
+860,Girona,La Vall d'en Bas
+861,Girona,La Vall de Bianya
+862,Lleida,Vall de Boí
+863,Lleida,Vall de Cardós
+864,Girona,Vall-llobrega
+865,Barcelona,Vallbona d'Anoia
+866,Lleida,Vallbona de les Monges
+867,Barcelona,Vallcebre
+868,Tarragona,Vallclara
+869,Lleida,Vallfogona de Balaguer
+870,Girona,Vallfogona de Ripollès
+871,Tarragona,Vallfogona de Riucorb
+872,Barcelona,Vallgorguina
+873,Barcelona,Vallirana
+874,Tarragona,Vallmoll
+875,Barcelona,Vallromanes
+876,Tarragona,Valls
+877,Lleida,Les Valls d'Aguilar
+878,Lleida,Les Valls de Valira
+879,Tarragona,Vandellòs i l'Hospitalet de l'Infant
+880,Lleida,La Vansa i Fórnols
+881,Barcelona,Veciana
+882,Tarragona,El Vendrell
+883,Girona,Ventalló
+884,Lleida,Verdú
+885,Girona,Verges
+886,Tarragona,Vespella de Gaià
+887,Barcelona,Vic
+888,Girona,Vidrà
+889,Girona,Vidreres
+890,Lleida,Vielha e Mijaran
+891,Tarragona,Vila-rodona
+892,Girona,Vila-sacra
+893,Lleida,Vila-sana
+894,Tarragona,Vila-seca
+895,Tarragona,Vilabella
+896,Girona,Vilabertran
+897,Girona,Vilablareix
+898,Barcelona,Vilada
+899,Girona,Viladamat
+900,Girona,Viladasens
+901,Barcelona,Viladecans
+902,Barcelona,Viladecavalls
+903,Girona,Vilademuls
+904,Girona,Viladrau
+905,Girona,Vilafant
+906,Barcelona,Vilafranca del Penedès
+907,Lleida,Vilagrassa
+908,Girona,Vilajuïga
+909,Tarragona,Vilalba dels Arcs
+910,Barcelona,Vilalba Sasserra
+911,Lleida,Vilaller
+912,Girona,Vilallonga de Ter
+913,Tarragona,Vilallonga del Camp
+914,Girona,Vilamacolum
+915,Girona,Vilamalla
+916,Girona,Vilamaniscle
+917,Lleida,Vilamòs
+918,Girona,Vilanant
+919,Tarragona,Vilanova d'Escornalbou
+920,Lleida,Vilanova de Bellpuig
+921,Lleida,Vilanova de l'Aguda
+922,Lleida,Vilanova de la Barca
+923,Lleida,Vilanova de Meià
+924,Tarragona,Vilanova de Prades
+925,Barcelona,Vilanova de Sau
+926,Lleida,Vilanova de Segrià
+927,Barcelona,Vilanova del Camí
+928,Barcelona,Vilanova del Vallès
+929,Barcelona,Vilanova i la Geltrú
+930,Tarragona,Vilaplana
+931,Barcelona,Vilassar de Dalt
+932,Barcelona,Vilassar de Mar
+933,Girona,Vilaür
+934,Tarragona,Vilaverd
+935,Tarragona,La Vilella Alta
+936,Tarragona,La Vilella Baixa
+937,Girona,Vilobí d'Onyar
+938,Barcelona,Vilobí del Penedès
+939,Girona,Vilopriu
+940,Lleida,El Vilosell
+941,Tarragona,Vimbodí i Poblet
+942,Lleida,Vinaixa
+943,Tarragona,Vinebre
+944,Tarragona,Vinyols i els Arcs
+945,Barcelona,Viver i Serrateix
+946,Tarragona,Xerta
