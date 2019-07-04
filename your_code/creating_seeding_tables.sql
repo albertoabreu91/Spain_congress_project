@@ -1,25 +1,22 @@
+-- GETTING TO KNOW OUR DATA.
 
--- Creating provinces table
-CREATE TABLE provinces (
-	prov_id INT AUTO_INCREMENT,
+
+-- Creating the province table with the re_id from the spanish political table
+CREATE TABLE province (
+	re_id INT,
 	prov_name VARCHAR(30),
-	PRIMARY KEY (prov_id)
+	PRIMARY KEY (re_id)
 );
 
-
--- Seeding the provinces table
-
-INSERT INTO provinces (prov_name)
+-- Inserting data into our province table
+INSERT INTO province (re_id, prov_name)
 VALUES 
-('Barcelona'),
-('Lleida'),
-('Girona'),
-('Tarragona');
+(8,'Barcelona'),
+(25,'Lleida'),
+(43,'Girona'),
+(17,'Tarragona');
 
--- Left Join with cat_mun as left table with spain_mun
 
-SELECT *
-FROM cat_mun
-LEFT JOIN spain_mun
-USING(RegionName);
+
+
 
