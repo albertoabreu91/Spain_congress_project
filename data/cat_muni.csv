@@ -1,0 +1,948 @@
+,RegionName
+0,Abella de la Conca
+1,Abrera
+2,Àger
+3,Agramunt
+4,Aguilar de Segarra
+5,Agullana
+6,Aiguafreda
+7,Aiguamúrcia
+8,Aiguaviva
+9,Aitona
+10,Els Alamús
+11,Alàs i Cerc
+12,L'Albagés
+13,Albanyà
+14,Albatàrrec
+15,Albesa
+16,L'Albi
+17,Albinyana
+18,L'Albiol
+19,Albons
+20,Alcanar
+21,Alcanó
+22,Alcarràs
+23,Alcoletge
+24,Alcover
+25,L'Aldea
+26,Aldover
+27,L'Aleixar
+28,Alella
+29,Alfara de Carles
+30,Alfarràs
+31,Alfés
+32,Alforja
+33,Algerri
+34,Alguaire
+35,Alins
+36,Alió
+37,Almacelles
+38,Almatret
+39,Almenar
+40,Almoster
+41,Alòs de Balaguer
+42,Alp
+43,Alpens
+44,Alpicat
+45,Alt Àneu
+46,Altafulla
+47,Amer
+48,L'Ametlla de Mar
+49,L'Ametlla del Vallès
+50,L'Ampolla
+51,Amposta
+52,Anglès
+53,Anglesola
+54,Arbeca
+55,L'Arboç
+56,Arbolí
+57,Arbúcies
+58,Arenys de Mar
+59,Arenys de Munt
+60,Argelaguer
+61,Argençola
+62,L'Argentera
+63,Argentona
+64,L'Armentera
+65,Arnes
+66,Arres
+67,Arsèguel
+68,Artés
+69,Artesa de Lleida
+70,Artesa de Segre
+71,Ascó
+72,Aspa
+73,Les Avellanes i Santa Linya
+74,Avià
+75,Avinyó
+76,Avinyonet de Puigventós
+77,Avinyonet del Penedès
+78,Badalona
+79,Badia del Vallès
+80,Bagà
+81,Baix Pallars
+82,Balaguer
+83,Balenyà
+84,Balsareny
+85,Banyeres del Penedès
+86,Banyoles
+87,Barbens
+88,Barberà de la Conca
+89,Barberà del Vallès
+90,Barcelona
+91,La Baronia de Rialb
+92,Bàscara
+93,Bassella
+94,Batea
+95,Bausen
+96,Begues
+97,Begur
+98,Belianes
+99,Bell-lloc d'Urgell
+100,Bellaguarda
+101,Bellcaire d'Empordà
+102,Bellcaire d'Urgell
+103,Bellmunt d'Urgell
+104,Bellmunt del Priorat
+105,Bellprat
+106,Bellpuig
+107,Bellvei
+108,Bellver de Cerdanya
+109,Bellvís
+110,Benavent de Segrià
+111,Benifallet
+112,Benissanet
+113,Berga
+114,Besalú
+115,Bescanó
+116,Beuda
+117,Bigues i Riells
+118,Biosca
+119,La Bisbal d'Empordà
+120,La Bisbal de Falset
+121,La Bisbal del Penedès
+122,Biure
+123,Blancafort
+124,Blanes
+125,Boadella i les Escaules
+126,Bolvir
+127,Bonastre
+128,Es Bòrdes
+129,Bordils
+130,Les Borges Blanques
+131,Les Borges del Camp
+132,Borrassà
+133,Borredà
+134,Bossòst
+135,Bot
+136,Botarell
+137,Bovera
+138,Bràfim
+139,Breda
+140,El Bruc
+141,El Brull
+142,Brunyola
+143,Cabacés
+144,Cabanabona
+145,Cabanelles
+146,Cabanes
+147,Les Cabanyes
+148,Cabó
+149,Cabra del Camp
+150,Cabrera d'Anoia
+151,Cabrera de Mar
+152,Cabrils
+153,Cadaqués
+154,Calaf
+155,Calafell
+156,Calders
+157,Caldes d'Estrac
+158,Caldes de Malavella
+159,Caldes de Montbui
+160,Calella
+161,Calldetenes
+162,Callús
+163,Calonge
+164,Calonge de Segarra
+165,Camarasa
+166,Camarles
+167,Cambrils
+168,Camós
+169,Campdevànol
+170,Campelles
+171,Campins
+172,Campllong
+173,Camprodon
+174,Canejan
+175,Canet d'Adri
+176,Canet de Mar
+177,La Canonja
+178,Canovelles
+179,Cànoves i Samalús
+180,Cantallops
+181,Canyelles
+182,Capafonts
+183,Capçanes
+184,Capellades
+185,Capmany
+186,Capolat
+187,Cardedeu
+188,Cardona
+189,Carme
+190,Caseres
+191,Cassà de la Selva
+192,Casserres
+193,Castell de l'Areny
+194,Castell de Mur
+195,Castell-Platja d'Aro
+196,Castellar de la Ribera
+197,Castellar de n'Hug
+198,Castellar del Riu
+199,Castellar del Vallès
+200,Castellbell i el Vilar
+201,Castellbisbal
+202,Castellcir
+203,Castelldans
+204,Castelldefels
+205,Castellet i la Gornal
+206,Castellfollit de la Roca
+207,Castellfollit de Riubregós
+208,Castellfollit del Boix
+209,Castellgalí
+210,Castellnou de Bages
+211,Castellnou de Seana
+212,Castelló d'Empúries
+213,Castelló de Farfanya
+214,Castellolí
+215,Castellserà
+216,Castellterçol
+217,Castellvell del Camp
+218,Castellví de la Marca
+219,Castellví de Rosanes
+220,El Catllar
+221,Cava
+222,La Cellera de Ter
+223,Celrà
+224,Centelles
+225,Cercs
+226,Cerdanyola del Vallès
+227,Cervelló
+228,Cervera
+229,Cervià de les Garrigues
+230,Cervià de Ter
+231,Cistella
+232,Ciutadilla
+233,Clariana de Cardener
+234,El Cogul
+235,Colera
+236,Coll de Nargó
+237,Collbató
+238,Colldejou
+239,Collsuspina
+240,Colomers
+241,La Coma i la Pedra
+242,Conca de Dalt
+243,Conesa
+244,Constantí
+245,Copons
+246,Corbera d'Ebre
+247,Corbera de Llobregat
+248,Corbins
+249,Corçà
+250,Cornellà de Llobregat
+251,Cornellà del Terri
+252,Cornudella de Montsant
+253,Creixell
+254,Crespià
+255,"Cruïlles, Monells i Sant Sadurní de l'Heura"
+256,Cubelles
+257,Cubells
+258,Cunit
+259,Darnius
+260,Das
+261,Deltebre
+262,Dosrius
+263,Duesaigües
+264,L'Escala
+265,Esparreguera
+266,Espinelves
+267,L'Espluga Calba
+268,L'Espluga de Francolí
+269,Esplugues de Llobregat
+270,Espolla
+271,Esponellà
+272,Espot
+273,L'Espunyola
+274,L'Esquirol
+275,Estamariu
+276,L'Estany
+277,Estaràs
+278,Esterri d'Àneu
+279,Esterri de Cardós
+280,Falset
+281,El Far d'Empordà
+282,Farrera
+283,La Fatarella
+284,La Febró
+285,Figaró-Montmany
+286,Fígols
+287,Fígols i Alinyà
+288,La Figuera
+289,Figueres
+290,Figuerola del Camp
+291,Flaçà
+292,Flix
+293,La Floresta
+294,Fogars de la Selva
+295,Fogars de Montclús
+296,Foixà
+297,Folgueroles
+298,Fondarella
+299,Fonollosa
+300,Font-rubí
+301,Fontanals de Cerdanya
+302,Fontanilles
+303,Fontcoberta
+304,Foradada
+305,Forallac
+306,Forès
+307,Fornells de la Selva
+308,Fortià
+309,Les Franqueses del Vallès
+310,Freginals
+311,La Fuliola
+312,Fulleda
+313,Gaià
+314,La Galera
+315,Gallifa
+316,Gandesa
+317,Garcia
+318,Els Garidells
+319,La Garriga
+320,Garrigàs
+321,Garrigoles
+322,Garriguella
+323,Gavà
+324,Gavet de la Conca
+325,Gelida
+326,Ger
+327,Gimenells i el Pla de la Font
+328,Ginestar
+329,Girona
+330,Gironella
+331,Gisclareny
+332,Godall
+333,Golmés
+334,Gombrèn
+335,Gósol
+336,La Granada
+337,La Granadella
+338,Granera
+339,La Granja d'Escarp
+340,Granollers
+341,Granyanella
+342,Granyena de les Garrigues
+343,Granyena de Segarra
+344,Gratallops
+345,Gualba
+346,Gualta
+347,Guardiola de Berguedà
+348,Els Guiamets
+349,Guils de Cerdanya
+350,Guimerà
+351,La Guingueta d'Àneu
+352,Guissona
+353,Guixers
+354,Gurb
+355,Horta de Sant Joan
+356,L'Hospitalet de Llobregat
+357,Els Hostalets de Pierola
+358,Hostalric
+359,Igualada
+360,Isona i Conca Dellà
+361,Isòvol
+362,Ivars d'Urgell
+363,Ivars de Noguera
+364,Ivorra
+365,Jafre
+366,La Jonquera
+367,Jorba
+368,Josa i Tuixén
+369,Juià
+370,Juncosa
+371,Juneda
+372,Les
+373,Linyola
+374,La Llacuna
+375,Lladó
+376,Lladorre
+377,Lladurs
+378,La Llagosta
+379,Llagostera
+380,Llambilles
+381,Llanars
+382,Llançà
+383,Llardecans
+384,Llavorsí
+385,Lleida
+386,Llers
+387,Lles de Cerdanya
+388,Lliçà d'Amunt
+389,Lliçà de Vall
+390,Llimiana
+391,Llinars del Vallès
+392,Llívia
+393,El Lloar
+394,Llobera
+395,Llorac
+396,Llorenç del Penedès
+397,Lloret de Mar
+398,Les Llosses
+399,Lluçà
+400,Maçanet de Cabrenys
+401,Maçanet de la Selva
+402,Madremanya
+403,Maià de Montcal
+404,Maials
+405,Maldà
+406,Malgrat de Mar
+407,Malla
+408,Manlleu
+409,Manresa
+410,Marçà
+411,Margalef
+412,Marganell
+413,Martorell
+414,Martorelles
+415,Mas de Barberans
+416,Masarac
+417,Masdenverge
+418,Les Masies de Roda
+419,Les Masies de Voltregà
+420,Masllorenç
+421,El Masnou
+422,La Masó
+423,Maspujols
+424,Masquefa
+425,El Masroig
+426,Massalcoreig
+427,Massanes
+428,Massoteres
+429,Matadepera
+430,Mataró
+431,Mediona
+432,Menàrguens
+433,Meranges
+434,Mieres
+435,El Milà
+436,Miralcamp
+437,Miravet
+438,Moià
+439,El Molar
+440,Molins de Rei
+441,Mollerussa
+442,Mollet de Peralada
+443,Mollet del Vallès
+444,Molló
+445,La Molsosa
+446,Monistrol de Calders
+447,Monistrol de Montserrat
+448,Mont-ral
+449,Mont-ras
+450,Mont-roig del Camp
+451,Montagut i Oix
+452,Montblanc
+453,Montbrió del Camp
+454,Montcada i Reixac
+455,Montclar
+456,Montellà i Martinet
+457,Montesquiu
+458,Montferrer i Castellbò
+459,Montferri
+460,Montgai
+461,Montgat
+462,Montmajor
+463,Montmaneu
+464,El Montmell
+465,Montmeló
+466,Montoliu de Lleida
+467,Montoliu de Segarra
+468,Montornès de Segarra
+469,Montornès del Vallès
+470,Montseny
+471,Móra d'Ebre
+472,Móra la Nova
+473,El Morell
+474,La Morera de Montsant
+475,Muntanyola
+476,Mura
+477,Nalec
+478,Naut Aran
+479,Navarcles
+480,Navàs
+481,Navata
+482,Navès
+483,La Nou de Berguedà
+484,La Nou de Gaià
+485,Nulles
+486,Odèn
+487,Òdena
+488,Ogassa
+489,Olèrdola
+490,Olesa de Bonesvalls
+491,Olesa de Montserrat
+492,Oliana
+493,Oliola
+494,Olius
+495,Olivella
+496,Olost
+497,Olot
+498,Les Oluges
+499,Olvan
+500,Els Omellons
+501,Els Omells de na Gaia
+502,Ordis
+503,Organyà
+504,Orís
+505,Oristà
+506,Orpí
+507,Òrrius
+508,Os de Balaguer
+509,Osor
+510,Ossó de Sió
+511,Pacs del Penedès
+512,Palafolls
+513,Palafrugell
+514,Palamós
+515,El Palau d'Anglesola
+516,Palau de Santa Eulàlia
+517,Palau-sator
+518,Palau-saverdera
+519,Palau-solità i Plegamans
+520,Els Pallaresos
+521,Pallejà
+522,La Palma d'Ebre
+523,La Palma de Cervelló
+524,Palol de Revardit
+525,Pals
+526,El Papiol
+527,Pardines
+528,Parets del Vallès
+529,Parlavà
+530,Passanant i Belltall
+531,Pau
+532,Paüls
+533,Pedret i Marzà
+534,Penelles
+535,La Pera
+536,Perafita
+537,Perafort
+538,Peralada
+539,Peramola
+540,El Perelló
+541,Piera
+542,Les Piles
+543,Pineda de Mar
+544,El Pinell de Brai
+545,Pinell de Solsonès
+546,Pinós
+547,Pira
+548,El Pla de Santa Maria
+549,El Pla del Penedès
+550,Les Planes d'Hostoles
+551,Planoles
+552,Els Plans de Sió
+553,El Poal
+554,La Pobla de Cérvoles
+555,La Pobla de Claramunt
+556,La Pobla de Lillet
+557,La Pobla de Mafumet
+558,La Pobla de Massaluca
+559,La Pobla de Montornès
+560,La Pobla de Segur
+561,Poboleda
+562,Polinyà
+563,El Pont d'Armentera
+564,El Pont de Bar
+565,Pont de Molins
+566,El Pont de Suert
+567,El Pont de Vilomara i Rocafort
+568,Pontils
+569,Pontons
+570,Pontós
+571,Ponts
+572,Porqueres
+573,Porrera
+574,El Port de la Selva
+575,Portbou
+576,La Portella
+577,Pradell de la Teixeta
+578,Prades
+579,Prat de Comte
+580,El Prat de Llobregat
+581,Pratdip
+582,Prats de Lluçanès
+583,Els Prats de Rei
+584,Prats i Sansor
+585,Preixana
+586,Preixens
+587,Premià de Dalt
+588,Premià de Mar
+589,Les Preses
+590,Prullans
+591,Puig-reig
+592,Puigcerdà
+593,Puigdàlber
+594,Puiggròs
+595,Puigpelat
+596,Puigverd d'Agramunt
+597,Puigverd de Lleida
+598,Pujalt
+599,La Quar
+600,Quart
+601,Queralbs
+602,Querol
+603,Rabós
+604,Rajadell
+605,Rasquera
+606,Regencós
+607,Rellinars
+608,Renau
+609,Reus
+610,Rialp
+611,La Riba
+612,Riba-roja d'Ebre
+613,Ribera d'Ondara
+614,Ribera d'Urgellet
+615,Ribes de Freser
+616,Riells i Viabrea
+617,La Riera de Gaià
+618,Riner
+619,Ripoll
+620,Ripollet
+621,Riu de Cerdanya
+622,Riudarenes
+623,Riudaura
+624,Riudecanyes
+625,Riudecols
+626,Riudellots de la Selva
+627,Riudoms
+628,Riumors
+629,La Roca del Vallès
+630,Rocafort de Queralt
+631,Roda de Berà
+632,Roda de Ter
+633,Rodonyà
+634,Roquetes
+635,Roses
+636,Rosselló
+637,El Rourell
+638,Rubí
+639,Rubió
+640,Rupià
+641,Rupit i Pruit
+642,Sabadell
+643,Sagàs
+644,Salàs de Pallars
+645,Saldes
+646,Sales de Llierca
+647,Sallent
+648,Salomó
+649,Salou
+650,Salt
+651,Sanaüja
+652,Sant Adrià de Besòs
+653,Sant Agustí de Lluçanès
+654,Sant Andreu de la Barca
+655,Sant Andreu de Llavaneres
+656,Sant Andreu Salou
+657,Sant Aniol de Finestres
+658,Sant Antoni de Vilamajor
+659,Sant Bartomeu del Grau
+660,Sant Boi de Llobregat
+661,Sant Boi de Lluçanès
+662,Sant Carles de la Ràpita
+663,Sant Cebrià de Vallalta
+664,Sant Celoni
+665,Sant Climent de Llobregat
+666,Sant Climent Sescebes
+667,Sant Cugat del Vallès
+668,Sant Cugat Sesgarrigues
+669,Sant Esteve de la Sarga
+670,Sant Esteve de Palautordera
+671,Sant Esteve Sesrovires
+672,Sant Feliu de Buixalleu
+673,Sant Feliu de Codines
+674,Sant Feliu de Guíxols
+675,Sant Feliu de Llobregat
+676,Sant Feliu de Pallerols
+677,Sant Feliu Sasserra
+678,Sant Ferriol
+679,Sant Fost de Campsentelles
+680,Sant Fruitós de Bages
+681,Sant Gregori
+682,Sant Guim de Freixenet
+683,Sant Guim de la Plana
+684,Sant Hilari Sacalm
+685,Sant Hipòlit de Voltregà
+686,Sant Iscle de Vallalta
+687,Sant Jaume d'Enveja
+688,Sant Jaume de Frontanyà
+689,Sant Jaume de Llierca
+690,Sant Jaume dels Domenys
+691,Sant Joan de les Abadesses
+692,Sant Joan de Mollet
+693,Sant Joan de Vilatorrada
+694,Sant Joan Despí
+695,Sant Joan les Fonts
+696,Sant Jordi Desvalls
+697,Sant Julià de Cerdanyola
+698,Sant Julià de Ramis
+699,Sant Julià de Vilatorta
+700,Sant Julià del Llor i Bonmatí
+701,Sant Just Desvern
+702,Sant Llorenç d'Hortons
+703,Sant Llorenç de la Muga
+704,Sant Llorenç de Morunys
+705,Sant Llorenç Savall
+706,Sant Martí d'Albars
+707,Sant Martí de Centelles
+708,Sant Martí de Llémena
+709,Sant Martí de Riucorb
+710,Sant Martí de Tous
+711,Sant Martí Sarroca
+712,Sant Martí Sesgueioles
+713,Sant Martí Vell
+714,Sant Mateu de Bages
+715,Sant Miquel de Campmajor
+716,Sant Miquel de Fluvià
+717,Sant Mori
+718,Sant Pau de Segúries
+719,Sant Pere de Ribes
+720,Sant Pere de Riudebitlles
+721,Sant Pere de Torelló
+722,Sant Pere de Vilamajor
+723,Sant Pere Pescador
+724,Sant Pere Sallavinera
+725,Sant Pol de Mar
+726,Sant Quintí de Mediona
+727,Sant Quirze de Besora
+728,Sant Quirze del Vallès
+729,Sant Quirze Safaja
+730,Sant Ramon
+731,Sant Sadurní d'Anoia
+732,Sant Sadurní d'Osormort
+733,Sant Salvador de Guardiola
+734,Sant Vicenç de Castellet
+735,Sant Vicenç de Montalt
+736,Sant Vicenç de Torelló
+737,Sant Vicenç dels Horts
+738,Santa Bàrbara
+739,Santa Cecília de Voltregà
+740,Santa Coloma de Cervelló
+741,Santa Coloma de Farners
+742,Santa Coloma de Gramenet
+743,Santa Coloma de Queralt
+744,Santa Cristina d'Aro
+745,Santa Eugènia de Berga
+746,Santa Eulàlia de Riuprimer
+747,Santa Eulàlia de Ronçana
+748,Santa Fe del Penedès
+749,Santa Llogaia d'Àlguema
+750,Santa Margarida de Montbui
+751,Santa Margarida i els Monjos
+752,Santa Maria d'Oló
+753,Santa Maria de Besora
+754,Santa Maria de Martorelles
+755,Santa Maria de Merlès
+756,Santa Maria de Miralles
+757,Santa Maria de Palautordera
+758,Santa Oliva
+759,Santa Pau
+760,Santa Perpètua de Mogoda
+761,Santa Susanna
+762,Santpedor
+763,Sarral
+764,Sarrià de Ter
+765,Sarroca de Bellera
+766,Sarroca de Lleida
+767,"Saus, Camallera i Llampaies"
+768,Savallà del Comtat
+769,La Secuita
+770,La Selva de Mar
+771,La Selva del Camp
+772,Senan
+773,La Sénia
+774,Senterada
+775,La Sentiu de Sió
+776,Sentmenat
+777,Serinyà
+778,Seròs
+779,Serra de Daró
+780,Setcases
+781,La Seu d'Urgell
+782,Seva
+783,Sidamon
+784,Sils
+785,Sitges
+786,Siurana
+787,Sobremunt
+788,El Soleràs
+789,Solivella
+790,Solsona
+791,Sora
+792,Soriguera
+793,Sort
+794,Soses
+795,Subirats
+796,Sudanell
+797,Sunyer
+798,Súria
+799,Susqueda
+800,Tagamanent
+801,Talamanca
+802,Talarn
+803,Talavera
+804,La Tallada d'Empordà
+805,Taradell
+806,Tarragona
+807,Tàrrega
+808,Tarrés
+809,Tarroja de Segarra
+810,Tavèrnoles
+811,Tavertet
+812,Teià
+813,Térmens
+814,Terrades
+815,Terrassa
+816,Tiana
+817,Tírvia
+818,Tiurana
+819,Tivenys
+820,Tivissa
+821,Tona
+822,Torà
+823,Tordera
+824,Torelló
+825,Els Torms
+826,Tornabous
+827,La Torre de Cabdella
+828,La Torre de Claramunt
+829,La Torre de Fontaubella
+830,La Torre de l'Espanyol
+831,Torre-serona
+832,Torrebesses
+833,Torredembarra
+834,Torrefarrera
+835,Torrefeta i Florejacs
+836,Torregrossa
+837,Torrelameu
+838,Torrelavit
+839,Torrelles de Foix
+840,Torrelles de Llobregat
+841,Torrent
+842,Torres de Segre
+843,Torroella de Fluvià
+844,Torroella de Montgrí
+845,Torroja del Priorat
+846,Tortellà
+847,Tortosa
+848,Toses
+849,Tossa de Mar
+850,Tremp
+851,Ullà
+852,Ullastrell
+853,Ullastret
+854,Ulldecona
+855,Ulldemolins
+856,Ultramort
+857,Urús
+858,Vacarisses
+859,La Vajol
+860,La Vall d'en Bas
+861,La Vall de Bianya
+862,Vall de Boí
+863,Vall de Cardós
+864,Vall-llobrega
+865,Vallbona d'Anoia
+866,Vallbona de les Monges
+867,Vallcebre
+868,Vallclara
+869,Vallfogona de Balaguer
+870,Vallfogona de Ripollès
+871,Vallfogona de Riucorb
+872,Vallgorguina
+873,Vallirana
+874,Vallmoll
+875,Vallromanes
+876,Valls
+877,Les Valls d'Aguilar
+878,Les Valls de Valira
+879,Vandellòs i l'Hospitalet de l'Infant
+880,La Vansa i Fórnols
+881,Veciana
+882,El Vendrell
+883,Ventalló
+884,Verdú
+885,Verges
+886,Vespella de Gaià
+887,Vic
+888,Vidrà
+889,Vidreres
+890,Vielha e Mijaran
+891,Vila-rodona
+892,Vila-sacra
+893,Vila-sana
+894,Vila-seca
+895,Vilabella
+896,Vilabertran
+897,Vilablareix
+898,Vilada
+899,Viladamat
+900,Viladasens
+901,Viladecans
+902,Viladecavalls
+903,Vilademuls
+904,Viladrau
+905,Vilafant
+906,Vilafranca del Penedès
+907,Vilagrassa
+908,Vilajuïga
+909,Vilalba dels Arcs
+910,Vilalba Sasserra
+911,Vilaller
+912,Vilallonga de Ter
+913,Vilallonga del Camp
+914,Vilamacolum
+915,Vilamalla
+916,Vilamaniscle
+917,Vilamòs
+918,Vilanant
+919,Vilanova d'Escornalbou
+920,Vilanova de Bellpuig
+921,Vilanova de l'Aguda
+922,Vilanova de la Barca
+923,Vilanova de Meià
+924,Vilanova de Prades
+925,Vilanova de Sau
+926,Vilanova de Segrià
+927,Vilanova del Camí
+928,Vilanova del Vallès
+929,Vilanova i la Geltrú
+930,Vilaplana
+931,Vilassar de Dalt
+932,Vilassar de Mar
+933,Vilaür
+934,Vilaverd
+935,La Vilella Alta
+936,La Vilella Baixa
+937,Vilobí d'Onyar
+938,Vilobí del Penedès
+939,Vilopriu
+940,El Vilosell
+941,Vimbodí i Poblet
+942,Vinaixa
+943,Vinebre
+944,Vinyols i els Arcs
+945,Viver i Serrateix
+946,Xerta
