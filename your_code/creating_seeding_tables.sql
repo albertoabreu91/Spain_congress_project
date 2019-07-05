@@ -58,5 +58,18 @@ SELECT municipalities, votes_rate, `ECP_per`, `ERC-CATSÍ_per`, `CDC_per`
 FROM MUN_POL_AGE
 ORDER BY `ECP_per`;
 
+-- Comparing by catalonian regions the most popular parties in Spain against the most popular party in Catalonia
+SELECT p.prov_name AS provinces, AVG(`PP_per`) AS PP_per_avg, AVG(`PSOE_per`) AS PSOE_per_avg , AVG(`Cs_per`) AS Ciudadanos_per_avg, AVG(`ERC-CATSÍ_per`) AS Esquerra_Rep_per_avg
+FROM MUN_POL_AGE as m
+JOIN province as p
+USING(prov_id)
+GROUP BY prov_name;
+
+-- Comparing the main catalan parties together with the most important catalan party per average per region
+SELECT p.prov_name AS provinces, AVG(`PP_per`) + AVG(`PSOE_per`) + AVG(`Cs_per`) AS sum_popluar_spain_parties_per_avg, AVG(`ERC-CATSÍ_per`) AS Esquerra_Rep_per_avg
+FROM MUN_POL_AGE as m
+JOIN province as p
+USING(prov_id)
+GROUP BY prov_name;
 
 
