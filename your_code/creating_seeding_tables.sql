@@ -53,5 +53,10 @@ USING(prov_id)
 GROUP BY prov_name
 ORDER BY pp_avg DESC;
 
+-- Which is the municipe with more catalan parties influence
+SELECT municipalities, votes_rate, `ECP_per`, `ERC-CATSÍ_per`, `CDC_per`
+FROM MUN_POL_AGE
+ORDER BY `ECP_per`;
+
 
 
