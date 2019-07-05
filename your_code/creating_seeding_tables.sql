@@ -28,7 +28,7 @@ ALTER TABLE MUN_POL_AGE
 ADD FOREIGN KEY(muni_id) REFERENCES MUN_ID_TABLE(muni_id),
 ADD FOREIGN KEY(prov_id) REFERENCES province(prov_id);
 
-
+-- ANALISIS---------------------------
 -- Which province have the most population
 SELECT prov_name, SUM(poblacion) AS total_population
 FROM MUN_POL_AGE as m
@@ -36,6 +36,14 @@ JOIN province as p
 USING(prov_id)
 GROUP BY prov_name
 ORDER BY total_population DESC;
+
+-- How many municipalities are in each provinces
+SELECT prov_name, COUNT(municipalities) as Municipalities_count
+FROM MUN_ID_TABLE as m
+JOIN province as p
+USING(prov_id)
+GROUP BY prov_name
+ORDER BY Municipalities_count DESC;
 
 -- Whats the mean of the political parties percentage votes per region
 SELECT prov_name, AVG(`PP_per`) AS pp_avg
