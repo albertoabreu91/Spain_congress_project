@@ -1,0 +1,948 @@
+"muni_id","municipalities","prov_id"
+1,"Abrera                                                                                              ",8
+2,"Aguilar de Segarra                                                                                  ",8
+3,"Alella                                                                                              ",8
+4,"Alpens                                                                                              ",8
+5,"L'Ametlla del Vallès                                                                                ",8
+6,"Arenys de Mar                                                                                       ",8
+7,"Arenys de Munt                                                                                      ",8
+8,"Argençola                                                                                           ",8
+9,"Argentona                                                                                           ",8
+10,"Artés                                                                                               ",8
+11,"Avià                                                                                                ",8
+12,"Avinyó                                                                                              ",8
+13,"Avinyonet del Penedès                                                                               ",8
+14,"Aiguafreda                                                                                          ",8
+15,"Badalona                                                                                            ",8
+16,"Bagà                                                                                                ",8
+17,"Balenyà                                                                                             ",8
+18,"Balsareny                                                                                           ",8
+19,"Barcelona                                                                                           ",8
+20,"Begues                                                                                              ",8
+21,"Bellprat                                                                                            ",8
+22,"Berga                                                                                               ",8
+23,"Bigues i Riells                                                                                     ",8
+24,"Borredà                                                                                             ",8
+25,"El Bruc                                                                                             ",8
+26,"El Brull                                                                                            ",8
+27,"Les Cabanyes                                                                                        ",8
+28,"Cabrera d'Anoia                                                                                     ",8
+29,"Cabrera de Mar                                                                                      ",8
+30,"Cabrils                                                                                             ",8
+31,"Calaf                                                                                               ",8
+32,"Caldes d'Estrac                                                                                     ",8
+33,"Caldes de Montbui                                                                                   ",8
+34,"Calders                                                                                             ",8
+35,"Calella                                                                                             ",8
+36,"Calonge de Segarra                                                                                  ",8
+37,"Calldetenes                                                                                         ",8
+38,"Callús                                                                                              ",8
+39,"Campins                                                                                             ",8
+40,"Canet de Mar                                                                                        ",8
+41,"Canovelles                                                                                          ",8
+42,"Cànoves i Samalús                                                                                   ",8
+43,"Canyelles                                                                                           ",8
+44,"Capellades                                                                                          ",8
+45,"Capolat                                                                                             ",8
+46,"Cardedeu                                                                                            ",8
+47,"Cardona                                                                                             ",8
+48,"Carme                                                                                               ",8
+49,"Casserres                                                                                           ",8
+50,"Castellar del Riu                                                                                   ",8
+51,"Castellar del Vallès                                                                                ",8
+52,"Castellar de n'Hug                                                                                  ",8
+53,"Castellbell i el Vilar                                                                              ",8
+54,"Castellbisbal                                                                                       ",8
+55,"Castellcir                                                                                          ",8
+56,"Castelldefels                                                                                       ",8
+57,"Castell de l'Areny                                                                                  ",8
+58,"Castellet i la Gornal                                                                               ",8
+59,"Castellfollit del Boix                                                                              ",8
+60,"Castellfollit de Riubregós                                                                          ",8
+61,"Castellgalí                                                                                         ",8
+62,"Castellnou de Bages                                                                                 ",8
+63,"Castellolí                                                                                          ",8
+64,"Castellterçol                                                                                       ",8
+65,"Castellví de la Marca                                                                               ",8
+66,"Castellví de Rosanes                                                                                ",8
+67,"Centelles                                                                                           ",8
+68,"Cervelló                                                                                            ",8
+69,"Collbató                                                                                            ",8
+70,"Collsuspina                                                                                         ",8
+71,"Copons                                                                                              ",8
+72,"Corbera de Llobregat                                                                                ",8
+73,"Cornellà de Llobregat                                                                               ",8
+74,"Cubelles                                                                                            ",8
+75,"Dosrius                                                                                             ",8
+76,"Esparreguera                                                                                        ",8
+77,"Esplugues de Llobregat                                                                              ",8
+78,"L'Espunyola                                                                                         ",8
+79,"L'Estany                                                                                            ",8
+80,"Fígols                                                                                              ",8
+81,"Fogars de Montclús                                                                                  ",8
+82,"Fogars de la Selva                                                                                  ",8
+83,"Folgueroles                                                                                         ",8
+84,"Fonollosa                                                                                           ",8
+85,"Font-rubí                                                                                           ",8
+86,"Les Franqueses del Vallès                                                                           ",8
+87,"Gallifa                                                                                             ",8
+88,"La Garriga                                                                                          ",8
+89,"Gavà                                                                                                ",8
+90,"Gaià                                                                                                ",8
+91,"Gelida                                                                                              ",8
+92,"Gironella                                                                                           ",8
+93,"Gisclareny                                                                                          ",8
+94,"La Granada                                                                                          ",8
+95,"Granera                                                                                             ",8
+96,"Granollers                                                                                          ",8
+97,"Gualba                                                                                              ",8
+98,"Sant Salvador de Guardiola                                                                          ",8
+99,"Guardiola de Berguedà                                                                               ",8
+100,"Gurb                                                                                                ",8
+101,"L'Hospitalet de Llobregat                                                                           ",8
+102,"Igualada                                                                                            ",8
+103,"Jorba                                                                                               ",8
+104,"La Llacuna                                                                                          ",8
+105,"La Llagosta                                                                                         ",8
+106,"Llinars del Vallès                                                                                  ",8
+107,"Lliçà d'Amunt                                                                                       ",8
+108,"Lliçà de Vall                                                                                       ",8
+109,"Lluçà                                                                                               ",8
+110,"Malgrat de Mar                                                                                      ",8
+111,"Malla                                                                                               ",8
+112,"Manlleu                                                                                             ",8
+113,"Manresa                                                                                             ",8
+114,"Martorell                                                                                           ",8
+115,"Martorelles                                                                                         ",8
+116,"Les Masies de Roda                                                                                  ",8
+117,"Les Masies de Voltregà                                                                              ",8
+118,"El Masnou                                                                                           ",8
+119,"Masquefa                                                                                            ",8
+120,"Matadepera                                                                                          ",8
+121,"Mataró                                                                                              ",8
+122,"Mediona                                                                                             ",8
+123,"Molins de Rei                                                                                       ",8
+124,"Mollet del Vallès                                                                                   ",8
+125,"Montcada i Reixac                                                                                   ",8
+126,"Montgat                                                                                             ",8
+127,"Monistrol de Montserrat                                                                             ",8
+128,"Monistrol de Calders                                                                                ",8
+129,"Muntanyola                                                                                          ",8
+130,"Montclar                                                                                            ",8
+131,"Montesquiu                                                                                          ",8
+132,"Montmajor                                                                                           ",8
+133,"Montmaneu                                                                                           ",8
+134,"Figaró-Montmany                                                                                     ",8
+135,"Montmeló                                                                                            ",8
+136,"Montornès del Vallès                                                                                ",8
+137,"Montseny                                                                                            ",8
+138,"Moià                                                                                                ",8
+139,"Mura                                                                                                ",8
+140,"Navarcles                                                                                           ",8
+141,"Navàs                                                                                               ",8
+142,"La Nou de Berguedà                                                                                  ",8
+143,"Òdena                                                                                               ",8
+144,"Olvan                                                                                               ",8
+145,"Olèrdola                                                                                            ",8
+146,"Olesa de Bonesvalls                                                                                 ",8
+147,"Olesa de Montserrat                                                                                 ",8
+148,"Olivella                                                                                            ",8
+149,"Olost                                                                                               ",8
+150,"Orís                                                                                                ",8
+151,"Oristà                                                                                              ",8
+152,"Orpí                                                                                                ",8
+153,"Òrrius                                                                                              ",8
+154,"Pacs del Penedès                                                                                    ",8
+155,"Palafolls                                                                                           ",8
+156,"Palau-solità i Plegamans                                                                            ",8
+157,"Pallejà                                                                                             ",8
+158,"El Papiol                                                                                           ",8
+159,"Parets del Vallès                                                                                   ",8
+160,"Perafita                                                                                            ",8
+161,"Piera                                                                                               ",8
+162,"Els Hostalets de Pierola                                                                            ",8
+163,"Pineda de Mar                                                                                       ",8
+164,"El Pla del Penedès                                                                                  ",8
+165,"La Pobla de Claramunt                                                                               ",8
+166,"La Pobla de Lillet                                                                                  ",8
+167,"Polinyà                                                                                             ",8
+168,"Pontons                                                                                             ",8
+169,"El Prat de Llobregat                                                                                ",8
+170,"Els Prats de Rei                                                                                    ",8
+171,"Prats de Lluçanès                                                                                   ",8
+172,"Premià de Mar                                                                                       ",8
+173,"Puigdàlber                                                                                          ",8
+174,"Puig-reig                                                                                           ",8
+175,"Pujalt                                                                                              ",8
+176,"La Quar                                                                                             ",8
+177,"Rajadell                                                                                            ",8
+178,"Rellinars                                                                                           ",8
+179,"Ripollet                                                                                            ",8
+180,"La Roca del Vallès                                                                                  ",8
+181,"El Pont de Vilomara i Rocafort                                                                      ",8
+182,"Roda de Ter                                                                                         ",8
+183,"Rubí                                                                                                ",8
+184,"Rubió                                                                                               ",8
+185,"Sabadell                                                                                            ",8
+186,"Sagàs                                                                                               ",8
+187,"Sant Pere Sallavinera                                                                               ",8
+188,"Saldes                                                                                              ",8
+189,"Sallent                                                                                             ",8
+190,"Santpedor                                                                                           ",8
+191,"Sant Iscle de Vallalta                                                                              ",8
+192,"Sant Adrià de Besòs                                                                                 ",8
+193,"Sant Agustí de Lluçanès                                                                             ",8
+194,"Sant Andreu de la Barca                                                                             ",8
+195,"Sant Andreu de Llavaneres                                                                           ",8
+196,"Sant Antoni de Vilamajor                                                                            ",8
+197,"Sant Bartomeu del Grau                                                                              ",8
+198,"Sant Boi de Llobregat                                                                               ",8
+199,"Sant Boi de Lluçanès                                                                                ",8
+200,"Sant Celoni                                                                                         ",8
+201,"Sant Cebrià de Vallalta                                                                             ",8
+202,"Sant Climent de Llobregat                                                                           ",8
+203,"Sant Cugat del Vallès                                                                               ",8
+204,"Sant Cugat Sesgarrigues                                                                             ",8
+205,"Sant Esteve de Palautordera                                                                         ",8
+206,"Sant Esteve Sesrovires                                                                              ",8
+207,"Sant Fost de Campsentelles                                                                          ",8
+208,"Sant Feliu de Codines                                                                               ",8
+209,"Sant Feliu de Llobregat                                                                             ",8
+210,"Sant Feliu Sasserra                                                                                 ",8
+211,"Sant Fruitós de Bages                                                                               ",8
+212,"Vilassar de Dalt                                                                                    ",8
+213,"Sant Hipòlit de Voltregà                                                                            ",8
+214,"Sant Jaume de Frontanyà                                                                             ",8
+215,"Sant Joan Despí                                                                                     ",8
+216,"Sant Joan de Vilatorrada                                                                            ",8
+217,"Vilassar de Mar                                                                                     ",8
+218,"Sant Julià de Vilatorta                                                                             ",8
+219,"Sant Just Desvern                                                                                   ",8
+220,"Sant Llorenç d'Hortons                                                                              ",8
+221,"Sant Llorenç Savall                                                                                 ",8
+222,"Sant Martí de Centelles                                                                             ",8
+223,"Sant Martí d'Albars                                                                                 ",8
+224,"Sant Martí de Tous                                                                                  ",8
+225,"Sant Martí Sarroca                                                                                  ",8
+226,"Sant Martí Sesgueioles                                                                              ",8
+227,"Sant Mateu de Bages                                                                                 ",8
+228,"Premià de Dalt                                                                                      ",8
+229,"Sant Pere de Ribes                                                                                  ",8
+230,"Sant Pere de Riudebitlles                                                                           ",8
+231,"Sant Pere de Torelló                                                                                ",8
+232,"Sant Pere de Vilamajor                                                                              ",8
+233,"Sant Pol de Mar                                                                                     ",8
+234,"Sant Quintí de Mediona                                                                              ",8
+235,"Sant Quirze de Besora                                                                               ",8
+236,"Sant Quirze del Vallès                                                                              ",8
+237,"Sant Quirze Safaja                                                                                  ",8
+238,"Sant Sadurní d'Anoia                                                                                ",8
+239,"Sant Sadurní d'Osormort                                                                             ",8
+240,"Marganell                                                                                           ",8
+241,"Santa Cecília de Voltregà                                                                           ",8
+242,"Santa Coloma de Cervelló                                                                            ",8
+243,"Santa Coloma de Gramenet                                                                            ",8
+244,"Santa Eugènia de Berga                                                                              ",8
+245,"Santa Eulàlia de Riuprimer                                                                          ",8
+246,"Santa Eulàlia de Ronçana                                                                            ",8
+247,"Santa Fe del Penedès                                                                                ",8
+248,"Santa Margarida de Montbui                                                                          ",8
+249,"Santa Margarida i els Monjos                                                                        ",8
+250,"Barberà del Vallès                                                                                  ",8
+251,"Santa Maria de Besora                                                                               ",8
+252,"L'Esquirol                                                                                          ",8
+253,"Santa Maria de Merlès                                                                               ",8
+254,"Santa Maria de Martorelles                                                                          ",8
+255,"Santa Maria de Miralles                                                                             ",8
+256,"Santa Maria d'Oló                                                                                   ",8
+257,"Santa Maria de Palautordera                                                                         ",8
+258,"Santa Perpètua de Mogoda                                                                            ",8
+259,"Santa Susanna                                                                                       ",8
+260,"Sant Vicenç de Castellet                                                                            ",8
+261,"Sant Vicenç dels Horts                                                                              ",8
+262,"Sant Vicenç de Montalt                                                                              ",8
+263,"Sant Vicenç de Torelló                                                                              ",8
+264,"Cerdanyola del Vallès                                                                               ",8
+265,"Sentmenat                                                                                           ",8
+266,"Cercs                                                                                               ",8
+267,"Seva                                                                                                ",8
+268,"Sitges                                                                                              ",8
+269,"Sobremunt                                                                                           ",8
+270,"Sora                                                                                                ",8
+271,"Subirats                                                                                            ",8
+272,"Súria                                                                                               ",8
+273,"Tavèrnoles                                                                                          ",8
+274,"Tagamanent                                                                                          ",8
+275,"Talamanca                                                                                           ",8
+276,"Taradell                                                                                            ",8
+277,"Terrassa                                                                                            ",8
+278,"Tavertet                                                                                            ",8
+279,"Teià                                                                                                ",8
+280,"Tiana                                                                                               ",8
+281,"Tona                                                                                                ",8
+282,"Tordera                                                                                             ",8
+283,"Torelló                                                                                             ",8
+284,"La Torre de Claramunt                                                                               ",8
+285,"Torrelavit                                                                                          ",8
+286,"Torrelles de Foix                                                                                   ",8
+287,"Torrelles de Llobregat                                                                              ",8
+288,"Ullastrell                                                                                          ",8
+289,"Vacarisses                                                                                          ",8
+290,"Vallbona d'Anoia                                                                                    ",8
+291,"Vallcebre                                                                                           ",8
+292,"Vallgorguina                                                                                        ",8
+293,"Vallirana                                                                                           ",8
+294,"Vallromanes                                                                                         ",8
+295,"Veciana                                                                                             ",8
+296,"Vic                                                                                                 ",8
+297,"Vilada                                                                                              ",8
+298,"Viladecavalls                                                                                       ",8
+299,"Viladecans                                                                                          ",8
+300,"Vilanova del Camí                                                                                   ",8
+301,"Vilanova de Sau                                                                                     ",8
+302,"Vilobí del Penedès                                                                                  ",8
+303,"Vilafranca del Penedès                                                                              ",8
+304,"Vilalba Sasserra                                                                                    ",8
+305,"Vilanova i la Geltrú                                                                                ",8
+306,"Viver i Serrateix                                                                                   ",8
+307,"Rupit i Pruit                                                                                       ",8
+308,"Vilanova del Vallès                                                                                 ",8
+309,"Sant Julià de Cerdanyola                                                                            ",8
+310,"Badia del Vallès                                                                                    ",8
+311,"La Palma de Cervelló                                                                                ",8
+312,"Agullana                                                                                            ",17
+313,"Aiguaviva                                                                                           ",17
+314,"Albanyà                                                                                             ",17
+315,"Albons                                                                                              ",17
+316,"El Far d'Empordà                                                                                    ",17
+317,"Alp                                                                                                 ",17
+318,"Amer                                                                                                ",17
+319,"Anglès                                                                                              ",17
+320,"Arbúcies                                                                                            ",17
+321,"Argelaguer                                                                                          ",17
+322,"L'Armentera                                                                                         ",17
+323,"Avinyonet de Puigventós                                                                             ",17
+324,"Begur                                                                                               ",17
+325,"La Vajol                                                                                            ",17
+326,"Banyoles                                                                                            ",17
+327,"Bàscara                                                                                             ",17
+328,"Bellcaire d'Empordà                                                                                 ",17
+329,"Besalú                                                                                              ",17
+330,"Bescanó                                                                                             ",17
+331,"Beuda                                                                                               ",17
+332,"La Bisbal d'Empordà                                                                                 ",17
+333,"Blanes                                                                                              ",17
+334,"Bolvir                                                                                              ",17
+335,"Bordils                                                                                             ",17
+336,"Borrassà                                                                                            ",17
+337,"Breda                                                                                               ",17
+338,"Brunyola                                                                                            ",17
+339,"Boadella i les Escaules                                                                             ",17
+340,"Cabanes                                                                                             ",17
+341,"Cabanelles                                                                                          ",17
+342,"Cadaqués                                                                                            ",17
+343,"Caldes de Malavella                                                                                 ",17
+344,"Calonge                                                                                             ",17
+345,"Camós                                                                                               ",17
+346,"Campdevànol                                                                                         ",17
+347,"Campelles                                                                                           ",17
+348,"Campllong                                                                                           ",17
+349,"Camprodon                                                                                           ",17
+350,"Canet d'Adri                                                                                        ",17
+351,"Cantallops                                                                                          ",17
+352,"Capmany                                                                                             ",17
+353,"Queralbs                                                                                            ",17
+354,"Cassà de la Selva                                                                                   ",17
+355,"Castellfollit de la Roca                                                                            ",17
+356,"Castelló d'Empúries                                                                                 ",17
+357,"Castell-Platja d'Aro                                                                                ",17
+358,"Celrà                                                                                               ",17
+359,"Cervià de Ter                                                                                       ",17
+360,"Cistella                                                                                            ",17
+361,"Siurana                                                                                             ",17
+362,"Colera                                                                                              ",17
+363,"Colomers                                                                                            ",17
+364,"Cornellà del Terri                                                                                  ",17
+365,"Corçà                                                                                               ",17
+366,"Crespià                                                                                             ",17
+367,"Darnius                                                                                             ",17
+368,"Das                                                                                                 ",17
+369,"L'Escala                                                                                            ",17
+370,"Espinelves                                                                                          ",17
+371,"Espolla                                                                                             ",17
+372,"Esponellà                                                                                           ",17
+373,"Figueres                                                                                            ",17
+374,"Flaçà                                                                                               ",17
+375,"Foixà                                                                                               ",17
+376,"Fontanals de Cerdanya                                                                               ",17
+377,"Fontanilles                                                                                         ",17
+378,"Fontcoberta                                                                                         ",17
+379,"Fornells de la Selva                                                                                ",17
+380,"Fortià                                                                                              ",17
+381,"Garrigàs                                                                                            ",17
+382,"Garrigoles                                                                                          ",17
+383,"Garriguella                                                                                         ",17
+384,"Ger                                                                                                 ",17
+385,"Girona                                                                                              ",17
+386,"Gombrèn                                                                                             ",17
+387,"Gualta                                                                                              ",17
+388,"Guils de Cerdanya                                                                                   ",17
+389,"Hostalric                                                                                           ",17
+390,"Isòvol                                                                                              ",17
+391,"Jafre                                                                                               ",17
+392,"La Jonquera                                                                                         ",17
+393,"Juià                                                                                                ",17
+394,"Lladó                                                                                               ",17
+395,"Llagostera                                                                                          ",17
+396,"Llambilles                                                                                          ",17
+397,"Llanars                                                                                             ",17
+398,"Llançà                                                                                              ",17
+399,"Llers                                                                                               ",17
+400,"Llívia                                                                                              ",17
+401,"Lloret de Mar                                                                                       ",17
+402,"Les Llosses                                                                                         ",17
+403,"Madremanya                                                                                          ",17
+404,"Maià de Montcal                                                                                     ",17
+405,"Meranges                                                                                            ",17
+406,"Masarac                                                                                             ",17
+407,"Massanes                                                                                            ",17
+408,"Maçanet de Cabrenys                                                                                 ",17
+409,"Maçanet de la Selva                                                                                 ",17
+410,"Mieres                                                                                              ",17
+411,"Mollet de Peralada                                                                                  ",17
+412,"Molló                                                                                               ",17
+413,"Montagut i Oix                                                                                      ",17
+414,"Mont-ras                                                                                            ",17
+415,"Navata                                                                                              ",17
+416,"Ogassa                                                                                              ",17
+417,"Olot                                                                                                ",17
+418,"Ordis                                                                                               ",17
+419,"Osor                                                                                                ",17
+420,"Palafrugell                                                                                         ",17
+421,"Palamós                                                                                             ",17
+422,"Palau de Santa Eulàlia                                                                              ",17
+423,"Palau-saverdera                                                                                     ",17
+424,"Palau-sator                                                                                         ",17
+425,"Palol de Revardit                                                                                   ",17
+426,"Pals                                                                                                ",17
+427,"Pardines                                                                                            ",17
+428,"Parlavà                                                                                             ",17
+429,"Pau                                                                                                 ",17
+430,"Pedret i Marzà                                                                                      ",17
+431,"La Pera                                                                                             ",17
+432,"Peralada                                                                                            ",17
+433,"Les Planes d'Hostoles                                                                               ",17
+434,"Planoles                                                                                            ",17
+435,"Pont de Molins                                                                                      ",17
+436,"Pontós                                                                                              ",17
+437,"Porqueres                                                                                           ",17
+438,"Portbou                                                                                             ",17
+439,"Les Preses                                                                                          ",17
+440,"El Port de la Selva                                                                                 ",17
+441,"Puigcerdà                                                                                           ",17
+442,"Quart                                                                                               ",17
+443,"Rabós                                                                                               ",17
+444,"Regencós                                                                                            ",17
+445,"Ribes de Freser                                                                                     ",17
+446,"Riells i Viabrea                                                                                    ",17
+447,"Ripoll                                                                                              ",17
+448,"Riudarenes                                                                                          ",17
+449,"Riudaura                                                                                            ",17
+450,"Riudellots de la Selva                                                                              ",17
+451,"Riumors                                                                                             ",17
+452,"Roses                                                                                               ",17
+453,"Rupià                                                                                               ",17
+454,"Sales de Llierca                                                                                    ",17
+455,"Salt                                                                                                ",17
+456,"Sant Andreu Salou                                                                                   ",17
+457,"Sant Climent Sescebes                                                                               ",17
+458,"Sant Feliu de Buixalleu                                                                             ",17
+459,"Sant Feliu de Guíxols                                                                               ",17
+460,"Sant Feliu de Pallerols                                                                             ",17
+461,"Sant Ferriol                                                                                        ",17
+462,"Sant Gregori                                                                                        ",17
+463,"Sant Hilari Sacalm                                                                                  ",17
+464,"Sant Jaume de Llierca                                                                               ",17
+465,"Sant Jordi Desvalls                                                                                 ",17
+466,"Sant Joan de les Abadesses                                                                          ",17
+467,"Sant Joan de Mollet                                                                                 ",17
+468,"Sant Julià de Ramis                                                                                 ",17
+469,"Vallfogona de Ripollès                                                                              ",17
+470,"Sant Llorenç de la Muga                                                                             ",17
+471,"Sant Martí de Llémena                                                                               ",17
+472,"Sant Martí Vell                                                                                     ",17
+473,"Sant Miquel de Campmajor                                                                            ",17
+474,"Sant Miquel de Fluvià                                                                               ",17
+475,"Sant Mori                                                                                           ",17
+476,"Sant Pau de Segúries                                                                                ",17
+477,"Sant Pere Pescador                                                                                  ",17
+478,"Santa Coloma de Farners                                                                             ",17
+479,"Santa Cristina d'Aro                                                                                ",17
+480,"Santa Llogaia d'Àlguema                                                                             ",17
+481,"Sant Aniol de Finestres                                                                             ",17
+482,"Santa Pau                                                                                           ",17
+483,"Sant Joan les Fonts                                                                                 ",17
+484,"Sarrià de Ter                                                                                       ",17
+485,"Saus, Camallera i Llampaies                                                                         ",17
+486,"La Selva de Mar                                                                                     ",17
+487,"La Cellera de Ter                                                                                   ",17
+488,"Serinyà                                                                                             ",17
+489,"Serra de Daró                                                                                       ",17
+490,"Setcases                                                                                            ",17
+491,"Sils                                                                                                ",17
+492,"Susqueda                                                                                            ",17
+493,"La Tallada d'Empordà                                                                                ",17
+494,"Terrades                                                                                            ",17
+495,"Torrent                                                                                             ",17
+496,"Torroella de Fluvià                                                                                 ",17
+497,"Torroella de Montgrí                                                                                ",17
+498,"Tortellà                                                                                            ",17
+499,"Toses                                                                                               ",17
+500,"Tossa de Mar                                                                                        ",17
+501,"Ultramort                                                                                           ",17
+502,"Ullà                                                                                                ",17
+503,"Ullastret                                                                                           ",17
+504,"Urús                                                                                                ",17
+505,"La Vall d'en Bas                                                                                    ",17
+506,"La Vall de Bianya                                                                                   ",17
+507,"Vall-llobrega                                                                                       ",17
+508,"Ventalló                                                                                            ",17
+509,"Verges                                                                                              ",17
+510,"Vidrà                                                                                               ",17
+511,"Vidreres                                                                                            ",17
+512,"Vilabertran                                                                                         ",17
+513,"Vilablareix                                                                                         ",17
+514,"Viladasens                                                                                          ",17
+515,"Viladamat                                                                                           ",17
+516,"Vilademuls                                                                                          ",17
+517,"Viladrau                                                                                            ",17
+518,"Vilafant                                                                                            ",17
+519,"Vilaür                                                                                              ",17
+520,"Vilajuïga                                                                                           ",17
+521,"Vilallonga de Ter                                                                                   ",17
+522,"Vilamacolum                                                                                         ",17
+523,"Vilamalla                                                                                           ",17
+524,"Vilamaniscle                                                                                        ",17
+525,"Vilanant                                                                                            ",17
+526,"Vila-sacra                                                                                          ",17
+527,"Vilopriu                                                                                            ",17
+528,"Vilobí d'Onyar                                                                                      ",17
+529,"Biure                                                                                               ",17
+530,"Cruïlles, Monells i Sant Sadurní de l'Heura                                                         ",17
+531,"Forallac                                                                                            ",17
+532,"Sant Julià del Llor i Bonmatí                                                                       ",17
+533,"Abella de la Conca                                                                                  ",25
+534,"Àger                                                                                                ",25
+535,"Agramunt                                                                                            ",25
+536,"Els Alamús                                                                                          ",25
+537,"Alàs i Cerc                                                                                         ",25
+538,"L'Albagés                                                                                           ",25
+539,"Albatàrrec                                                                                          ",25
+540,"Albesa                                                                                              ",25
+541,"L'Albi                                                                                              ",25
+542,"Alcanó                                                                                              ",25
+543,"Alcarràs                                                                                            ",25
+544,"Alcoletge                                                                                           ",25
+545,"Alfarràs                                                                                            ",25
+546,"Alfés                                                                                               ",25
+547,"Algerri                                                                                             ",25
+548,"Alguaire                                                                                            ",25
+549,"Alins                                                                                               ",25
+550,"Almacelles                                                                                          ",25
+551,"Almatret                                                                                            ",25
+552,"Almenar                                                                                             ",25
+553,"Alòs de Balaguer                                                                                    ",25
+554,"Alpicat                                                                                             ",25
+555,"Alt Àneu                                                                                            ",25
+556,"Naut Aran                                                                                           ",25
+557,"Anglesola                                                                                           ",25
+558,"Arbeca                                                                                              ",25
+559,"El Pont de Bar                                                                                      ",25
+560,"Arres                                                                                               ",25
+561,"Arsèguel                                                                                            ",25
+562,"Artesa de Lleida                                                                                    ",25
+563,"Artesa de Segre                                                                                     ",25
+564,"La Sentiu de Sió                                                                                    ",25
+565,"Aspa                                                                                                ",25
+566,"Les Avellanes i Santa Linya                                                                         ",25
+567,"Aitona                                                                                              ",25
+568,"Baix Pallars                                                                                        ",25
+569,"Balaguer                                                                                            ",25
+570,"Barbens                                                                                             ",25
+571,"La Baronia de Rialb                                                                                 ",25
+572,"La Vall de Boí                                                                                      ",25
+573,"Bassella                                                                                            ",25
+574,"Bausen                                                                                              ",25
+575,"Belianes                                                                                            ",25
+576,"Bellcaire d'Urgell                                                                                  ",25
+577,"Bell-lloc d'Urgell                                                                                  ",25
+578,"Bellmunt d'Urgell                                                                                   ",25
+579,"Bellpuig                                                                                            ",25
+580,"Bellver de Cerdanya                                                                                 ",25
+581,"Bellvís                                                                                             ",25
+582,"Benavent de Segrià                                                                                  ",25
+583,"Biosca                                                                                              ",25
+584,"Bovera                                                                                              ",25
+585,"Es Bòrdes                                                                                           ",25
+586,"Les Borges Blanques                                                                                 ",25
+587,"Bossòst                                                                                             ",25
+588,"Cabanabona                                                                                          ",25
+589,"Cabó                                                                                                ",25
+590,"Camarasa                                                                                            ",25
+591,"Canejan                                                                                             ",25
+592,"Castellar de la Ribera                                                                              ",25
+593,"Castelldans                                                                                         ",25
+594,"Castellnou de Seana                                                                                 ",25
+595,"Castelló de Farfanya                                                                                ",25
+596,"Castellserà                                                                                         ",25
+597,"Cava                                                                                                ",25
+598,"Cervera                                                                                             ",25
+599,"Cervià de les Garrigues                                                                             ",25
+600,"Ciutadilla                                                                                          ",25
+601,"Clariana de Cardener                                                                                ",25
+602,"El Cogul                                                                                            ",25
+603,"Coll de Nargó                                                                                       ",25
+604,"Corbins                                                                                             ",25
+605,"Cubells                                                                                             ",25
+606,"L'Espluga Calba                                                                                     ",25
+607,"Espot                                                                                               ",25
+608,"Estaràs                                                                                             ",25
+609,"Esterri d'Àneu                                                                                      ",25
+610,"Esterri de Cardós                                                                                   ",25
+611,"Estamariu                                                                                           ",25
+612,"Farrera                                                                                             ",25
+613,"La Floresta                                                                                         ",25
+614,"Fondarella                                                                                          ",25
+615,"Foradada                                                                                            ",25
+616,"La Fuliola                                                                                          ",25
+617,"Fulleda                                                                                             ",25
+618,"Gavet de la Conca                                                                                   ",25
+619,"Golmés                                                                                              ",25
+620,"Gósol                                                                                               ",25
+621,"La Granadella                                                                                       ",25
+622,"La Granja d'Escarp                                                                                  ",25
+623,"Granyanella                                                                                         ",25
+624,"Granyena de Segarra                                                                                 ",25
+625,"Granyena de les Garrigues                                                                           ",25
+626,"Guimerà                                                                                             ",25
+627,"Guissona                                                                                            ",25
+628,"Guixers                                                                                             ",25
+629,"Ivars de Noguera                                                                                    ",25
+630,"Ivars d'Urgell                                                                                      ",25
+631,"Ivorra                                                                                              ",25
+632,"Isona i Conca Dellà                                                                                 ",25
+633,"Juncosa                                                                                             ",25
+634,"Juneda                                                                                              ",25
+635,"Lleida                                                                                              ",25
+636,"Les                                                                                                 ",25
+637,"Linyola                                                                                             ",25
+638,"Lladorre                                                                                            ",25
+639,"Lladurs                                                                                             ",25
+640,"Llardecans                                                                                          ",25
+641,"Llavorsí                                                                                            ",25
+642,"Lles de Cerdanya                                                                                    ",25
+643,"Llimiana                                                                                            ",25
+644,"Llobera                                                                                             ",25
+645,"Maldà                                                                                               ",25
+646,"Massalcoreig                                                                                        ",25
+647,"Massoteres                                                                                          ",25
+648,"Maials                                                                                              ",25
+649,"Menàrguens                                                                                          ",25
+650,"Miralcamp                                                                                           ",25
+651,"La Molsosa                                                                                          ",25
+652,"Mollerussa                                                                                          ",25
+653,"Montgai                                                                                             ",25
+654,"Montellà i Martinet                                                                                 ",25
+655,"Montferrer i Castellbò                                                                              ",25
+656,"Montoliu de Segarra                                                                                 ",25
+657,"Montoliu de Lleida                                                                                  ",25
+658,"Montornès de Segarra                                                                                ",25
+659,"Nalec                                                                                               ",25
+660,"Navès                                                                                               ",25
+661,"Odèn                                                                                                ",25
+662,"Oliana                                                                                              ",25
+663,"Oliola                                                                                              ",25
+664,"Olius                                                                                               ",25
+665,"Les Oluges                                                                                          ",25
+666,"Els Omellons                                                                                        ",25
+667,"Els Omells de na Gaia                                                                               ",25
+668,"Organyà                                                                                             ",25
+669,"Os de Balaguer                                                                                      ",25
+670,"Ossó de Sió                                                                                         ",25
+671,"El Palau d'Anglesola                                                                                ",25
+672,"Conca de Dalt                                                                                       ",25
+673,"La Coma i la Pedra                                                                                  ",25
+674,"Penelles                                                                                            ",25
+675,"Peramola                                                                                            ",25
+676,"Pinell de Solsonès                                                                                  ",25
+677,"Pinós                                                                                               ",25
+678,"El Poal                                                                                             ",25
+679,"La Pobla de Cérvoles                                                                                ",25
+680,"Bellaguarda                                                                                         ",25
+681,"La Pobla de Segur                                                                                   ",25
+682,"Ponts                                                                                               ",25
+683,"El Pont de Suert                                                                                    ",25
+684,"La Portella                                                                                         ",25
+685,"Prats i Sansor                                                                                      ",25
+686,"Preixana                                                                                            ",25
+687,"Preixens                                                                                            ",25
+688,"Prullans                                                                                            ",25
+689,"Puiggròs                                                                                            ",25
+690,"Puigverd d'Agramunt                                                                                 ",25
+691,"Puigverd de Lleida                                                                                  ",25
+692,"Rialp                                                                                               ",25
+693,"Ribera d'Urgellet                                                                                   ",25
+694,"Riner                                                                                               ",25
+695,"Rosselló                                                                                            ",25
+696,"Salàs de Pallars                                                                                    ",25
+697,"Sanaüja                                                                                             ",25
+698,"Sant Guim de Freixenet                                                                              ",25
+699,"Sant Llorenç de Morunys                                                                             ",25
+700,"Sant Ramon                                                                                          ",25
+701,"Sant Esteve de la Sarga                                                                             ",25
+702,"Sant Guim de la Plana                                                                               ",25
+703,"Sarroca de Lleida                                                                                   ",25
+704,"Sarroca de Bellera                                                                                  ",25
+705,"Senterada                                                                                           ",25
+706,"La Seu d'Urgell                                                                                     ",25
+707,"Seròs                                                                                               ",25
+708,"Sidamon                                                                                             ",25
+709,"El Soleràs                                                                                          ",25
+710,"Solsona                                                                                             ",25
+711,"Soriguera                                                                                           ",25
+712,"Sort                                                                                                ",25
+713,"Soses                                                                                               ",25
+714,"Sudanell                                                                                            ",25
+715,"Sunyer                                                                                              ",25
+716,"Talarn                                                                                              ",25
+717,"Talavera                                                                                            ",25
+718,"Tàrrega                                                                                             ",25
+719,"Tarrés                                                                                              ",25
+720,"Tarroja de Segarra                                                                                  ",25
+721,"Térmens                                                                                             ",25
+722,"Tírvia                                                                                              ",25
+723,"Tiurana                                                                                             ",25
+724,"Torà                                                                                                ",25
+725,"Els Torms                                                                                           ",25
+726,"Tornabous                                                                                           ",25
+727,"Torrebesses                                                                                         ",25
+728,"La Torre de Cabdella                                                                                ",25
+729,"Torrefarrera                                                                                        ",25
+730,"Torregrossa                                                                                         ",25
+731,"Torrelameu                                                                                          ",25
+732,"Torres de Segre                                                                                     ",25
+733,"Torre-serona                                                                                        ",25
+734,"Tremp                                                                                               ",25
+735,"Vallbona de les Monges                                                                              ",25
+736,"Les Valls de Valira                                                                                 ",25
+737,"Vallfogona de Balaguer                                                                              ",25
+738,"Verdú                                                                                               ",25
+739,"Vielha e Mijaran                                                                                    ",25
+740,"Vilagrassa                                                                                          ",25
+741,"Vilaller                                                                                            ",25
+742,"Vilamòs                                                                                             ",25
+743,"Vilanova de Bellpuig                                                                                ",25
+744,"Vilanova de l'Aguda                                                                                 ",25
+745,"Vilanova de Meià                                                                                    ",25
+746,"Vilanova de Segrià                                                                                  ",25
+747,"Vila-sana                                                                                           ",25
+748,"El Vilosell                                                                                         ",25
+749,"Vilanova de la Barca                                                                                ",25
+750,"Vinaixa                                                                                             ",25
+751,"Vall de Cardós                                                                                      ",25
+752,"Sant Martí de Riucorb                                                                               ",25
+753,"La Guingueta d'Àneu                                                                                 ",25
+754,"Castell de Mur                                                                                      ",25
+755,"Ribera d'Ondara                                                                                     ",25
+756,"Les Valls d'Aguilar                                                                                 ",25
+757,"Torrefeta i Florejacs                                                                               ",25
+758,"Fígols i Alinyà                                                                                     ",25
+759,"La Vansa i Fórnols                                                                                  ",25
+760,"Josa i Tuixén                                                                                       ",25
+761,"Els Plans de Sió                                                                                    ",25
+762,"Gimenells i el Pla de la Font                                                                       ",25
+763,"Riu de Cerdanya                                                                                     ",25
+764,"Aiguamúrcia                                                                                         ",43
+765,"Albinyana                                                                                           ",43
+766,"L'Albiol                                                                                            ",43
+767,"Alcanar                                                                                             ",43
+768,"Alcover                                                                                             ",43
+769,"Aldover                                                                                             ",43
+770,"L'Aleixar                                                                                           ",43
+771,"Alfara de Carles                                                                                    ",43
+772,"Alforja                                                                                             ",43
+773,"Alió                                                                                                ",43
+774,"Almoster                                                                                            ",43
+775,"Altafulla                                                                                           ",43
+776,"L'Ametlla de Mar                                                                                    ",43
+777,"Amposta                                                                                             ",43
+778,"Arbolí                                                                                              ",43
+779,"L'Arboç                                                                                             ",43
+780,"L'Argentera                                                                                         ",43
+781,"Arnes                                                                                               ",43
+782,"Ascó                                                                                                ",43
+783,"Banyeres del Penedès                                                                                ",43
+784,"Barberà de la Conca                                                                                 ",43
+785,"Batea                                                                                               ",43
+786,"Bellmunt del Priorat                                                                                ",43
+787,"Bellvei                                                                                             ",43
+788,"Benifallet                                                                                          ",43
+789,"Benissanet                                                                                          ",43
+790,"La Bisbal de Falset                                                                                 ",43
+791,"La Bisbal del Penedès                                                                               ",43
+792,"Blancafort                                                                                          ",43
+793,"Bonastre                                                                                            ",43
+794,"Les Borges del Camp                                                                                 ",43
+795,"Bot                                                                                                 ",43
+796,"Botarell                                                                                            ",43
+797,"Bràfim                                                                                              ",43
+798,"Cabacés                                                                                             ",43
+799,"Cabra del Camp                                                                                      ",43
+800,"Calafell                                                                                            ",43
+801,"Cambrils                                                                                            ",43
+802,"Capafonts                                                                                           ",43
+803,"Capçanes                                                                                            ",43
+804,"Caseres                                                                                             ",43
+805,"Castellvell del Camp                                                                                ",43
+806,"El Catllar                                                                                          ",43
+807,"La Sénia                                                                                            ",43
+808,"Colldejou                                                                                           ",43
+809,"Conesa                                                                                              ",43
+810,"Constantí                                                                                           ",43
+811,"Corbera d'Ebre                                                                                      ",43
+812,"Cornudella de Montsant                                                                              ",43
+813,"Creixell                                                                                            ",43
+814,"Cunit                                                                                               ",43
+815,"Xerta                                                                                               ",43
+816,"Duesaigües                                                                                          ",43
+817,"L'Espluga de Francolí                                                                               ",43
+818,"Falset                                                                                              ",43
+819,"La Fatarella                                                                                        ",43
+820,"La Febró                                                                                            ",43
+821,"La Figuera                                                                                          ",43
+822,"Figuerola del Camp                                                                                  ",43
+823,"Flix                                                                                                ",43
+824,"Forès                                                                                               ",43
+825,"Freginals                                                                                           ",43
+826,"La Galera                                                                                           ",43
+827,"Gandesa                                                                                             ",43
+828,"Garcia                                                                                              ",43
+829,"Els Garidells                                                                                       ",43
+830,"Ginestar                                                                                            ",43
+831,"Godall                                                                                              ",43
+832,"Gratallops                                                                                          ",43
+833,"Els Guiamets                                                                                        ",43
+834,"Horta de Sant Joan                                                                                  ",43
+835,"El Lloar                                                                                            ",43
+836,"Llorac                                                                                              ",43
+837,"Llorenç del Penedès                                                                                 ",43
+838,"Margalef                                                                                            ",43
+839,"Marçà                                                                                               ",43
+840,"Mas de Barberans                                                                                    ",43
+841,"Masdenverge                                                                                         ",43
+842,"Masllorenç                                                                                          ",43
+843,"La Masó                                                                                             ",43
+844,"Maspujols                                                                                           ",43
+845,"El Masroig                                                                                          ",43
+846,"El Milà                                                                                             ",43
+847,"Miravet                                                                                             ",43
+848,"El Molar                                                                                            ",43
+849,"Montblanc                                                                                           ",43
+850,"Montbrió del Camp                                                                                   ",43
+851,"Montferri                                                                                           ",43
+852,"El Montmell                                                                                         ",43
+853,"Mont-ral                                                                                            ",43
+854,"Mont-roig del Camp                                                                                  ",43
+855,"Móra d'Ebre                                                                                         ",43
+856,"Móra la Nova                                                                                        ",43
+857,"El Morell                                                                                           ",43
+858,"La Morera de Montsant                                                                               ",43
+859,"La Nou de Gaià                                                                                      ",43
+860,"Nulles                                                                                              ",43
+861,"La Palma d'Ebre                                                                                     ",43
+862,"Els Pallaresos                                                                                      ",43
+863,"Passanant i Belltall                                                                                ",43
+864,"Paüls                                                                                               ",43
+865,"Perafort                                                                                            ",43
+866,"El Perelló                                                                                          ",43
+867,"Les Piles                                                                                           ",43
+868,"El Pinell de Brai                                                                                   ",43
+869,"Pira                                                                                                ",43
+870,"El Pla de Santa Maria                                                                               ",43
+871,"La Pobla de Mafumet                                                                                 ",43
+872,"La Pobla de Massaluca                                                                               ",43
+873,"La Pobla de Montornès                                                                               ",43
+874,"Poboleda                                                                                            ",43
+875,"El Pont d'Armentera                                                                                 ",43
+876,"Porrera                                                                                             ",43
+877,"Pradell de la Teixeta                                                                               ",43
+878,"Prades                                                                                              ",43
+879,"Prat de Comte                                                                                       ",43
+880,"Pratdip                                                                                             ",43
+881,"Puigpelat                                                                                           ",43
+882,"Querol                                                                                              ",43
+883,"Rasquera                                                                                            ",43
+884,"Renau                                                                                               ",43
+885,"Reus                                                                                                ",43
+886,"La Riba                                                                                             ",43
+887,"Riba-roja d'Ebre                                                                                    ",43
+888,"La Riera de Gaià                                                                                    ",43
+889,"Riudecanyes                                                                                         ",43
+890,"Riudecols                                                                                           ",43
+891,"Riudoms                                                                                             ",43
+892,"Rocafort de Queralt                                                                                 ",43
+893,"Roda de Berà                                                                                        ",43
+894,"Rodonyà                                                                                             ",43
+895,"Roquetes                                                                                            ",43
+896,"El Rourell                                                                                          ",43
+897,"Salomó                                                                                              ",43
+898,"Sant Carles de la Ràpita                                                                            ",43
+899,"Sant Jaume dels Domenys                                                                             ",43
+900,"Santa Bàrbara                                                                                       ",43
+901,"Santa Coloma de Queralt                                                                             ",43
+902,"Santa Oliva                                                                                         ",43
+903,"Pontils                                                                                             ",43
+904,"Sarral                                                                                              ",43
+905,"Savallà del Comtat                                                                                  ",43
+906,"La Secuita                                                                                          ",43
+907,"La Selva del Camp                                                                                   ",43
+908,"Senan                                                                                               ",43
+909,"Solivella                                                                                           ",43
+910,"Tarragona                                                                                           ",43
+911,"Tivenys                                                                                             ",43
+912,"Tivissa                                                                                             ",43
+913,"La Torre de Fontaubella                                                                             ",43
+914,"La Torre de l'Espanyol                                                                              ",43
+915,"Torredembarra                                                                                       ",43
+916,"Torroja del Priorat                                                                                 ",43
+917,"Tortosa                                                                                             ",43
+918,"Ulldecona                                                                                           ",43
+919,"Ulldemolins                                                                                         ",43
+920,"Vallclara                                                                                           ",43
+921,"Vallfogona de Riucorb                                                                               ",43
+922,"Vallmoll                                                                                            ",43
+923,"Valls                                                                                               ",43
+924,"Vandellòs i l'Hospitalet de l'Infant                                                                ",43
+925,"El Vendrell                                                                                         ",43
+926,"Vespella de Gaià                                                                                    ",43
+927,"Vilabella                                                                                           ",43
+928,"Vilallonga del Camp                                                                                 ",43
+929,"Vilanova d'Escornalbou                                                                              ",43
+930,"Vilanova de Prades                                                                                  ",43
+931,"Vilaplana                                                                                           ",43
+932,"Vila-rodona                                                                                         ",43
+933,"Vila-seca                                                                                           ",43
+934,"Vilaverd                                                                                            ",43
+935,"La Vilella Alta                                                                                     ",43
+936,"La Vilella Baixa                                                                                    ",43
+937,"Vilalba dels Arcs                                                                                   ",43
+938,"Vimbodí i Poblet                                                                                    ",43
+939,"Vinebre                                                                                             ",43
+940,"Vinyols i els Arcs                                                                                  ",43
+941,"Deltebre                                                                                            ",43
+942,"Sant Jaume d'Enveja                                                                                 ",43
+943,"Camarles                                                                                            ",43
+944,"L'Aldea                                                                                             ",43
+945,"Salou                                                                                               ",43
+946,"L'Ampolla                                                                                           ",43
+947,"La Canonja                                                                                          ",43
