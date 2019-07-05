@@ -80,4 +80,11 @@ JOIN province as p
 USING(prov_id)
 GROUP BY prov_name;
 
+-- Know which municipality has the largest populations and comparint their distribution of votes of spain popular parties and the catalonian most popular party
+SELECT municipalities AS towns, poblacion, votes_rate, `PP_per`,`PSOE_per`, `Cs_per`, `ERC-CATSÍ_per`
+FROM MUN_POL_AGE as m
+JOIN province as p
+USING(prov_id)
+ORDER BY poblacion DESC, `ERC-CATSÍ_per` DESC;
+
 
